@@ -4,11 +4,12 @@
 
 # Examples
 
-/d/js/graphql-auth https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-auth 301!
-/d/js/graphql https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql 301!
-/d/js/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/javascript/rest-express 301!
-
-/d/js/graphql-auth https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-auth 301!
-/d/js/graphql https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql 301!
-/d/js/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-apollo-server 301!
-/d/js/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/javascript/rest-express 301!
+# JS
+/e/js/graphql-auth https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-auth 301!
+/e/js/graphql https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql 301!
+/e/js/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/javascript/rest-express 301!
+# TS
+/e/ts/graphql-auth https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-auth 301!
+/e/ts/graphql https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql 301!
+/e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-apollo-server 301!
+/e/ts/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/javascript/rest-express 301!
