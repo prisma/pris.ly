@@ -8,7 +8,7 @@
 /e/js/graphql https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql 301!
 /e/js/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/javascript/rest-express 301!
 # TS
-/e/ts/graphql-auth https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-auth 301!
-/e/ts/graphql https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql 301!
-/e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/prisma2/javascript/graphql-apollo-server 301!
-/e/ts/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/javascript/rest-express 301!
+/e/ts/graphql-auth https://github.com/prisma/prisma-examples/tree/prisma2/typescript/graphql-auth 301!
+/e/ts/graphql https://github.com/prisma/prisma-examples/tree/prisma2/typescript/graphql 301!
+/e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/prisma2/typescript/graphql-apollo-server 301!
+/e/ts/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/typescript/rest-express 301!
