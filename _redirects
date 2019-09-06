@@ -12,3 +12,6 @@
 /e/ts/graphql https://github.com/prisma/prisma-examples/tree/prisma2/typescript/graphql 301!
 /e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/prisma2/typescript/graphql-apollo-server 301!
 /e/ts/rest-express https://github.com/prisma/prisma-examples/tree/prisma2/typescript/rest-express 301!
+
+# Blog
+/b/graphqlgen https://github.com/prisma-archive/prisma-blog-archive/blob/master/2018-10-30-graphqlgen.mdx 301!
