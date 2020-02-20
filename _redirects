@@ -8,6 +8,7 @@
 /d/connection-strings https://github.com/prisma/prisma2/tree/master/docs/core/connectors 301!
 /d/client https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md 301!
 /d/introspection https://github.com/prisma/prisma2/blob/master/docs/introspection.md 301!
+/d/client-generator https://github.com/prisma/prisma2/blob/master/docs/core/generators/prisma-client-js.md 301!
 
 # Examples
 # JS
