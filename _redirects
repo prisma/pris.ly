@@ -9,6 +9,8 @@
 /d/client https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md 301!
 /d/introspection https://github.com/prisma/prisma2/blob/master/docs/introspection.md 301!
 /d/client-generator https://github.com/prisma/prisma2/blob/master/docs/core/generators/prisma-client-js.md 301!
+/d/logging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#logging 301!
+/d/debugging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#debugging 301!
 
 # Examples
 # JS
