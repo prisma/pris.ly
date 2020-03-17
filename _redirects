@@ -11,6 +11,7 @@
 /d/client-generator https://github.com/prisma/prisma2/blob/master/docs/core/generators/prisma-client-js.md 301!
 /d/logging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#logging 301!
 /d/debugging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#debugging 301!
+/d/bug-reports https://github.com/prisma/prisma2/blob/master/docs/creating-bug-reports.md 301!
 
 # Examples
 # JS
