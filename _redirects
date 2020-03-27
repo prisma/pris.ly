@@ -12,6 +12,7 @@
 /d/logging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#logging 301!
 /d/debugging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#debugging 301!
 /d/bug-reports https://github.com/prisma/prisma2/blob/master/docs/creating-bug-reports.md 301!
+/d/graphql https://prisma2.netlify.com/understand-prisma/prisma-in-your-stack/graphql 301!
 
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
