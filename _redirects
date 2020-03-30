@@ -14,6 +14,11 @@
 /d/bug-reports https://github.com/prisma/prisma2/blob/master/docs/creating-bug-reports.md 301!
 /d/graphql https://prisma2.netlify.com/understand-prisma/prisma-in-your-stack/graphql 301!
 
+/d/introspection-warning-1 https://www.prisma.io/reference/tools-and-interfaces/introspection#table-with-no-unique-identifier-or-id 301!
+/d/introspection-warning-2 https://www.prisma.io/reference/tools-and-interfaces/introspection#field-with-unsupported-type 301!
+/d/introspection-warning-3 https://www.prisma.io/reference/tools-and-interfaces/introspection#field-with-unsupported-name 301!
+/d/introspection-warning-4 https://www.prisma.io/reference/tools-and-interfaces/introspection#enum-with-unsupported-name 301!
+
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
 
