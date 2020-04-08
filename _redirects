@@ -1,18 +1,18 @@
 # Docs
-/d/mysql-connector https://github.com/prisma/prisma2/blob/master/docs/core/connectors/mysql.md 301!
-/d/postgres-connector https://github.com/prisma/prisma2/blob/master/docs/core/connectors/postgresql.md 301!
-/d/telemetry https://github.com/prisma/prisma2/blob/master/docs/telemetry.md 301!
+/d/mysql-connector https://www.prisma.io/docs/reference/database-connectors/mysql 301!
+/d/postgres-connector https://www.prisma.io/docs/reference/database-connectors/postgresql 301!
+/d/telemetry https://www.prisma.io/docs/reference/more/telemetry 301!
 /nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
-/d/getting-started https://github.com/prisma/prisma2/blob/master/docs/getting-started 301!
-/d/prisma-schema https://github.com/prisma/prisma2/blob/master/docs/prisma-schema-file.md 301!
-/d/connection-strings https://github.com/prisma/prisma2/tree/master/docs/core/connectors 301!
-/d/client https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md 301!
-/d/introspection https://github.com/prisma/prisma2/blob/master/docs/introspection.md 301!
-/d/client-generator https://github.com/prisma/prisma2/blob/master/docs/core/generators/prisma-client-js.md 301!
-/d/logging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#logging 301!
-/d/debugging https://github.com/prisma/prisma2/blob/master/docs/prisma-client-js/api.md#debugging 301!
-/d/bug-reports https://github.com/prisma/prisma2/blob/master/docs/creating-bug-reports.md 301!
-/d/graphql https://prisma2.netlify.com/understand-prisma/prisma-in-your-stack/graphql 301!
+/d/getting-started https://www.prisma.io/docs/ 301!
+/d/prisma-schema https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/prisma-schema-file 301!
+/d/connection-strings https://www.prisma.io/docs/reference/database-connectors/connection-urls 301!
+/d/client https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/api 301!
+/d/introspection https://www.prisma.io/docs/reference/tools-and-interfaces/introspection 301!
+/d/client-generator https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/generators 301!
+/d/logging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/logging 301!
+/d/debugging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/debugging 301!
+/d/bug-reports https://www.prisma.io/docs/more/creating-bug-reports 301!
+/d/graphql https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql 301!
 
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
