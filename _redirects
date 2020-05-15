@@ -14,6 +14,7 @@
 /d/bug-reports https://www.prisma.io/docs/more/creating-bug-reports 301!
 /d/graphql https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql 301!
 /d/migrate https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
+/d/should-you-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
 
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
