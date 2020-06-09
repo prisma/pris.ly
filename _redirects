@@ -17,6 +17,11 @@
 /d/should-you-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
 /d/why-prisma https://www.prisma.io/docs/understand-prisma/why-prisma 301!
 /d/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
+/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
+/d/how-to-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
+/d/schema-incompatibilities https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities 301!
+
+
 
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
