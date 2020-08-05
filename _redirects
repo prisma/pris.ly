@@ -21,6 +21,7 @@
 /d/how-to-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
 /d/schema-incompatibilities https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities 301!
 /d/naming-models https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/models#naming-models 301!
+/d/build-binaries https://github.com/prisma/prisma-engines#building-prisma-engines 301!
 
 
 # Release Notes
