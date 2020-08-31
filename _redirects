@@ -34,12 +34,14 @@
 /e/js/graphql-sdl-first https://github.com/prisma/prisma-examples/tree/master/javascript/graphql-sdl-first 301!
 /e/js/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/master/javascript/graphql-apollo-server 301!
 /e/js/rest-express https://github.com/prisma/prisma-examples/tree/master/javascript/rest-express 301!
+/e/js/rest-fastify https://github.com/prisma/prisma-examples/tree/master/javascript/rest-fastify 301!
 
 # TS
 /e/ts/graphql https://github.com/prisma/prisma-examples/tree/master/typescript/graphql 301!
 /e/ts/graphql-auth https://github.com/prisma/prisma-examples/tree/master/typescript/graphql-auth 301!
 /e/ts/graphql-sdl-first https://github.com/prisma/prisma-examples/tree/master/typescript/graphql-sdl-first 301!
 /e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/master/typescript/graphql-apollo-server 301!
+/e/ts/graphql-typegraphql https://github.com/prisma/prisma-examples/tree/master/typescript/graphql-typegraphql 301!
 /e/ts/rest-express https://github.com/prisma/prisma-examples/tree/master/typescript/rest-express 301!
 
 # Blog
