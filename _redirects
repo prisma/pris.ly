@@ -29,6 +29,8 @@
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
 
 # Examples
+/examples https://github.com/prisma/prisma-examples
+
 # JS
 /e/js/graphql https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql 301!
 /e/js/graphql-auth https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql-auth 301!
