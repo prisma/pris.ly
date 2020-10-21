@@ -38,6 +38,7 @@
 /e/js/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql-apollo-server 301!
 /e/js/rest-express https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-express 301!
 /e/js/rest-fastify https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-fastify 301!
+/e/js/rest-nextjs https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-nextjs 301!
 
 # TS
 /e/ts/graphql https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql 301!
@@ -46,6 +47,10 @@
 /e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-apollo-server 301!
 /e/ts/graphql-typegraphql https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql 301!
 /e/ts/rest-express https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-express 301!
+/e/ts/rest-nextjs-api-routes https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes 301!
+/e/ts/rest-nextjs-api-routes-auth https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes-auth 301!
+/e/ts/rest-nextjs-express https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-express 301!
+/e/ts/graphql-nextjs https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nextjs 301!
 
 # Blog
 /b/graphqlgen https://github.com/prisma-archive/prisma-blog-archive/blob/master/2018-10-30-graphqlgen.mdx 301!
