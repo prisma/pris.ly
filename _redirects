@@ -1,7 +1,7 @@
 # Docs
 /d/mysql-connector https://www.prisma.io/docs/reference/database-connectors/mysql 301!
 /d/postgres-connector https://www.prisma.io/docs/reference/database-connectors/postgresql 301!
-/d/mssql-connector https://www.prisma.io/docs/reference/database-connectors/mssql 301!
+/d/mssql-connector https://www.prisma.io/docs/reference/database-connectors/microsoft-sql-server 301!
 /d/telemetry https://www.prisma.io/docs/reference/more/telemetry 301!
 /nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
 /d/getting-started https://www.prisma.io/docs/ 301!
