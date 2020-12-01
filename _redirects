@@ -17,7 +17,6 @@
 /d/debugging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/debugging 301!
 /d/bug-reports https://www.prisma.io/docs/more/creating-bug-reports 301!
 /d/graphql https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql 301!
-/d/migrate https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
 /d/should-you-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
 /d/why-prisma https://www.prisma.io/docs/understand-prisma/why-prisma 301!
 /d/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
@@ -30,6 +29,12 @@
 /d/preview https://www.prisma.io/docs/more/releases#preview 301!
 /d/client-constructor https://www.prisma.io/docs/concepts/components/prisma-client/constructor 301!
 
+# Docs Migrate
+/d/migrate https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
+/d/migrate-upgrade https://www.notion.so/prismaio/Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786#c64771885d0f442c9efc0019628351d0 301!
+/d/migrate-baseline https://www.notion.so/prismaio/Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786#0ddde3aab60b4db29f39f50d5a8a34a7 301!
+/d/migrate-resolve https://www.notion.so/prismaio/Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786#159fdff87d444d75947097f08dadff49 301!
+
 
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
@@ -37,9 +42,6 @@
 
 # Early Access
 /migrate-early-access https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786 301!
-/migrate-upgrade https://www.notion.so/prismaio/Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786#c64771885d0f442c9efc0019628351d0 301!
-/migrate-baseline https://www.notion.so/prismaio/Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786#0ddde3aab60b4db29f39f50d5a8a34a7 301!
-/migrate-resolve https://www.notion.so/prismaio/Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786#159fdff87d444d75947097f08dadff49 301!
 
 # Examples
 /examples https://github.com/prisma/prisma-examples
