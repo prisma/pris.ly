@@ -29,6 +29,9 @@
 /d/preview https://www.prisma.io/docs/more/releases#preview 301!
 /d/client-constructor https://www.prisma.io/docs/concepts/components/prisma-client/constructor 301!
 
+# Quickstart repos
+/quickstart https://codeload.github.com/prisma/quickstart/tar.gz/master 301!
+
 # Docs Migrate
 /d/migrate https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
 /d/migrate-upgrade https://www.prisma.io/docs/guides/prisma-guides/prisma-migrate-guides/add-prisma-migrate-to-a-project 301!
