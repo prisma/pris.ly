@@ -29,6 +29,7 @@
 /d/preview https://www.prisma.io/docs/more/releases#preview 301!
 /d/client-constructor https://www.prisma.io/docs/concepts/components/prisma-client/constructor 301!
 /d/execute-raw https://www.prisma.io/docs/concepts/components/prisma-client/raw-database-access#executeraw 301!
+/d/null-undefined https://www.prisma.io/docs/concepts/components/prisma-client/null-and-undefined 301!
 
 # Quickstart repos
 /quickstart https://codeload.github.com/prisma/quickstart/tar.gz/master 301!
