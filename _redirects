@@ -75,6 +75,7 @@
 /e/ts/rest-nextjs-api-routes-auth https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes-auth 301!
 /e/ts/rest-nextjs-express https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-express 301!
 /e/ts/graphql-nextjs https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nextjs 301!
+/e/ts/graphql-hapi https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-hapi 301!
 
 # Blog
 /b/graphqlgen https://github.com/prisma-archive/prisma-blog-archive/blob/master/2018-10-30-graphqlgen.mdx 301!
