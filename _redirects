@@ -68,6 +68,8 @@
 /e/ts/graphql https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql 301!
 /e/ts/graphql-auth https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-auth 301!
 /e/ts/graphql-sdl-first https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-sdl-first 301!
+/e/ts/graphql-nestjs https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nestjs 301!
+/e/ts/graphql-nestjs-sdl-first https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nestjs-sdl-first 301!
 /e/ts/graphql-apollo-server https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-apollo-server 301!
 /e/ts/graphql-typegraphql https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql 301!
 /e/ts/graphql-typegraphql-crud https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql-crud 301!
