@@ -44,7 +44,7 @@
 /d/migrate-baseline https://www.prisma.io/docs/guides/prisma-guides/prisma-migrate-guides/add-prisma-migrate-to-a-project#baseline-your-production-environment 301!
 /d/migrate-resolve https://www.prisma.io/docs/concepts/components/prisma-migrate/prisma-migrate-flows#handling-a-failed-migration 301!
 /d/migrate-shadow https://www.prisma.io/docs/concepts/components/prisma-migrate#shadow-database 301!
-/d/migrate-provider-switch https://www.prisma.io/docs/concepts/components/prisma-migrate/prisma-migrate-limitations-issues#you-cannot-switch-database-providers 301!
+/d/migrate-provider-switch https://www.prisma.io/docs/concepts/components/prisma-migrate/prisma-migrate-limitations-issues#you-cannot-automatically-switch-database-providers 301!
 
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
