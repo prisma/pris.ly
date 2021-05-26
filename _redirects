@@ -49,8 +49,6 @@
 /d/migrate-provider-switch https://www.prisma.io/docs/concepts/components/prisma-migrate/prisma-migrate-limitations-issues#you-cannot-automatically-switch-database-providers 301!
 /d/migrate-advisory-locking https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking 301!
 
-https://t.co/Wk66d2V93c?amp=1
-
 # Release Notes
 /preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
 /2.12 https://github.com/prisma/prisma/releases/tag/2.12.0 301!
