@@ -18,7 +18,7 @@ on:
 
 jobs:
   markdown-link-check:
-    name: Confirm links work
+    name: Confirm redirect targets work
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
