@@ -18,6 +18,7 @@ on:
 
 jobs:
   markdown-link-check:
+    name: Confirm links work
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
