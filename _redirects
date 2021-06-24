@@ -82,6 +82,7 @@
 /e/ts/graphql-typegraphql https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql 301!
 /e/ts/graphql-typegraphql-crud https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql-crud 301!
 /e/ts/rest-express https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-express 301!
+/e/ts/rest-fastify https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-fastify 301!
 /e/ts/rest-nextjs-api-routes https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes 301!
 /e/ts/rest-nextjs-api-routes-auth https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes-auth 301!
 /e/ts/rest-nextjs-express https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-express 301!
