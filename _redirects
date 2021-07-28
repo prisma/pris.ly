@@ -61,6 +61,7 @@
 /migrate-early-access https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786 301!
 /enterprise https://prisma103696.typeform.com/to/D91R9T4i 301!
 /enterprise-recordings https://prisma103696.typeform.com/to/YUln0miL 301!
+/prisma-data-proxy https://prisma103696.typeform.com/to/J2mI0LZm 301!
 
 # Examples
 /examples https://github.com/prisma/prisma-examples
@@ -165,9 +166,6 @@
 
 # MongoDB
 /mongo https://prisma103696.typeform.com/to/FriDuIeM 301!
-
-# Prisma Data Proxy Early Access Program signup form
-/prisma-data-proxy https://prisma103696.typeform.com/to/IG9ZKSKk 301!
 
 # Go
 /go https://github.com/prisma/prisma-client-go
