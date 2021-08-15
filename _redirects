@@ -7,7 +7,7 @@
 /d/mssql-connector https://www.prisma.io/docs/reference/database-connectors/microsoft-sql-server 301!
 /d/telemetry https://www.prisma.io/docs/reference/more/telemetry 301!
 /nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
-/d/getting-started https://www.prisma.io/docs/ 301!
+/d/getting-started https://www.prisma.io/docs/getting-started/ 301!
 /d/prisma-schema https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/prisma-schema-file 301!
 /d/connection-strings https://www.prisma.io/docs/reference/database-connectors/connection-urls 301!
 /d/client https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/api 301!
