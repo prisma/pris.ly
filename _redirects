@@ -50,6 +50,7 @@
 /d/migrate-advisory-locking https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking 301!
 /d/migrate-no-direct-ddl https://github.com/prisma/prisma/issues/7292 301!
 /d/migrate-no-foreign-keys https://github.com/prisma/prisma/issues/7292 301!
+/d/cyclic-referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions/cyclic-referential-actions 301!
 /d/mongodb-troubleshooting-transactions https://prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment 301!
 
 
