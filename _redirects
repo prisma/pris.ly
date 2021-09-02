@@ -32,7 +32,8 @@
 /d/null-undefined https://www.prisma.io/docs/concepts/components/prisma-client/null-and-undefined 301!
 /d/attribute-functions https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference/#attribute-functions 301!
 /d/connection-pool https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/connection-pool 301!
-/d/nexus-prisma https://github.com/prisma/nexus-prisma#readme
+/d/nexus-prisma https://github.com/prisma/nexus-prisma#readme 301!
+/d/major-version-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions 301!
 
 # Docs – Help articles
 /d/help/next-js-best-practices https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices 301!
