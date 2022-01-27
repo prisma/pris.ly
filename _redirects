@@ -47,6 +47,8 @@
 
 # Docs Migrate
 /d/migrate https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
+# TODO change link to better location when available
+/d/migrate-diff https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
 /d/migrate-upgrade https://www.prisma.io/docs/guides/prisma-guides/prisma-migrate-guides/add-prisma-migrate-to-a-project 301!
 /d/migrate-baseline https://www.prisma.io/docs/guides/prisma-guides/prisma-migrate-guides/add-prisma-migrate-to-a-project#baseline-your-production-environment 301!
 /d/migrate-resolve https://www.prisma.io/docs/guides/database/production-troubleshooting#failed-migration 301!
