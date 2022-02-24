@@ -41,6 +41,7 @@
 /d/many-to-many-relations https://prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations 301!
 /d/document-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#mongodb 301!
 /d/relational-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#mongodb 301!
+/d/mongodb-replica-set https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb/connect-your-database-typescript-mongodb 301!
 
 # Docs – Help articles
 /d/help/next-js-best-practices https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices 301!
