@@ -18,11 +18,11 @@
 /d/telemetry https://www.prisma.io/docs/reference/more/telemetry 301!
 /nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
 /d/getting-started https://www.prisma.io/docs/getting-started/ 301!
-/d/prisma-schema https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/prisma-schema-file 301!
+/d/prisma-schema https://www.prisma.io/docs/concepts/components/prisma-schema 301!
 /d/connection-strings https://www.prisma.io/docs/reference/database-connectors/connection-urls 301!
 /d/client https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/api 301!
 /d/introspection https://www.prisma.io/docs/reference/tools-and-interfaces/introspection 301!
-/d/client-generator https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/generators 301!
+/d/client-generator https://www.prisma.io/docs/concepts/components/prisma-schema/generators 301!
 /d/logging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/logging 301!
 /d/debugging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/debugging 301!
 /d/bug-reports https://www.prisma.io/docs/support/creating-bug-reports 301!
@@ -33,10 +33,10 @@
 /upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
 /d/how-to-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
 /d/schema-incompatibilities https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities 301!
-/d/naming-models https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/models#naming-models 301!
+/d/naming-models https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#naming-conventions 301!
 /d/build-binaries https://github.com/prisma/prisma-engines#building-prisma-engines 301!
 /d/build-engines https://github.com/prisma/prisma-engines#building-prisma-engines 301!
-/d/prisma-schema-location https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema#prisma-schema-file-location 301!
+/d/prisma-schema-location https://www.prisma.io/docs/concepts/components/prisma-schema#prisma-schema-file-location 301!
 /d/preview https://www.prisma.io/docs/more/releases#preview 301!
 /d/client-constructor https://www.prisma.io/docs/concepts/components/prisma-client/constructor 301!
 /d/execute-raw https://www.prisma.io/docs/concepts/components/prisma-client/raw-database-access#executeraw 301!
@@ -47,6 +47,8 @@
 /d/major-version-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions 301!
 /d/seeding https://www.prisma.io/docs/guides/database/seed-database 301!
 /d/data-proxy https://prisma.io/docs/concepts/components/prisma-data-platform#prisma-data-proxy 301!
+/d/relations https://www.prisma.io/docs/concepts/components/prisma-schema/relations 301!
+/d/relation-attribute https://www.prisma.io/docs/concepts/components/prisma-schema/relations#the-relation-attribute 301!
 /d/many-to-many-relations https://prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations 301!
 /d/document-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#mongodb 301!
 /d/relational-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#implicit-many-to-many-relations 301!
@@ -72,6 +74,7 @@
 /d/migrate-advisory-locking https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking 301!
 /d/migrate-no-direct-ddl https://github.com/prisma/prisma/issues/7292 301!
 /d/migrate-no-foreign-keys https://github.com/prisma/prisma/issues/7292 301!
+/d/referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions 301!
 /d/cyclic-referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions/cyclic-referential-actions 301!
 /d/mongodb-troubleshooting-transactions https://prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment 301!
 
