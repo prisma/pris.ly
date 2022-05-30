@@ -46,7 +46,7 @@
 /d/nexus-prisma https://github.com/prisma/nexus-prisma#readme 301!
 /d/major-version-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions 301!
 /d/seeding https://www.prisma.io/docs/guides/database/seed-database 301!
-/d/data-proxy https://prisma.io/docs/concepts/components/prisma-data-platform#prisma-data-proxy 301!
+/d/data-proxy https://www.prisma.io/docs/concepts/data-platform/data-proxy 301!
 /d/relations https://www.prisma.io/docs/concepts/components/prisma-schema/relations 301!
 /d/relation-attribute https://www.prisma.io/docs/concepts/components/prisma-schema/relations#the-relation-attribute 301!
 /d/many-to-many-relations https://prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations 301!
