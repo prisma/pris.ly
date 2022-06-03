@@ -89,8 +89,8 @@
 /migrate-early-access https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786 301!
 /enterprise https://prisma103696.typeform.com/to/D91R9T4i 301!
 /enterprise-recordings https://prisma103696.typeform.com/to/YUln0miL 301!
-/prisma-data-proxy https://prisma.io/docs/concepts/components/prisma-data-platform#prisma-data-proxy 301!
-/data-proxy https://prisma.io/docs/concepts/components/prisma-data-platform#prisma-data-proxy 301!
+/prisma-data-proxy /d/data-proxy 301!
+/data-proxy /d/data-proxy 301!
 /vercel-edge https://prisma103696.typeform.com/to/mVuxXUcH 301!
 
 # Examples
