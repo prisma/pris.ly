@@ -258,3 +258,12 @@
 # Support
 /support-policy https://prismaio.notion.site/Prisma-Support-Policy-36adad9a8c974270a3297d0fe3fb8e0a 301!
 
+# Microsoft Course Video Series Collaboration
+/ms/prisma-schema https://www.prisma.io/docs/concepts/components/prisma-schema?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series  301!
+/ms/connection-urls https://www.prisma.io/docs/reference/database-reference/connection-urls?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
+/ms/sql-server https://www.prisma.io/docs/concepts/database-connectors/sql-server?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
+/ms/prisma-migrate https://www.prisma.io/docs/concepts/components/prisma-migrate?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
+/ms/database-migrations https://www.prisma.io/dataguide/types/relational/what-are-database-migrations?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
+/ms/shadow-database https://www.prisma.io/docs/concepts/components/prisma-migrate/shadow-database?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
+/ms/prisma-studio https://www.prisma.io/docs/concepts/components/prisma-studio?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
+/ms/prisma-client-crud https://www.prisma.io/docs/concepts/components/prisma-client/crud?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series 301!
