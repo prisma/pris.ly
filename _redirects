@@ -1,7 +1,6 @@
-# Privacy
-/privacy https://prismaio.notion.site/Terms-Privacy-5b5b9938b3a941ccb2ad97eaf5524c07 301!
-
-# Docs
+################
+### Docs /d/ ###
+################
 
 # Docs - Connectors
 /d/sqlite-connector https://www.prisma.io/docs/concepts/database-connectors/sqlite 301!
@@ -15,35 +14,26 @@
 /d/mongodb-connector https://www.prisma.io/docs/concepts/database-connectors/mongodb 301!
 /d/cockroachdb-connector https://www.prisma.io/docs/concepts/database-connectors/cockroachdb 301!
 
+/d/logging https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/logging 301!
+/d/debugging https://www.prisma.io/docs/concepts/components/prisma-client/debugging 301!
 /d/telemetry https://www.prisma.io/docs/reference/more/telemetry 301!
-/nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
 /d/getting-started https://www.prisma.io/docs/getting-started/ 301!
 /d/prisma-schema https://www.prisma.io/docs/concepts/components/prisma-schema 301!
 /d/connection-strings https://www.prisma.io/docs/reference/database-connectors/connection-urls 301!
 /d/client https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/api 301!
 /d/introspection https://www.prisma.io/docs/reference/tools-and-interfaces/introspection 301!
 /d/client-generator https://www.prisma.io/docs/concepts/components/prisma-schema/generators 301!
-/d/logging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/logging 301!
-/d/debugging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/debugging 301!
 /d/bug-reports https://www.prisma.io/docs/support/creating-bug-reports 301!
-/d/graphql https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql 301!
-/d/should-you-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
 /d/why-prisma https://www.prisma.io/docs/understand-prisma/why-prisma 301!
-/d/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
-/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
-/d/how-to-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
-/d/schema-incompatibilities https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities 301!
 /d/naming-models https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#naming-conventions 301!
 /d/build-binaries https://github.com/prisma/prisma-engines#building-prisma-engines 301!
 /d/build-engines https://github.com/prisma/prisma-engines#building-prisma-engines 301!
 /d/prisma-schema-location https://www.prisma.io/docs/concepts/components/prisma-schema#prisma-schema-file-location 301!
 /d/preview https://www.prisma.io/docs/more/releases#preview 301!
-/d/client-constructor https://www.prisma.io/docs/concepts/components/prisma-client/constructor 301!
 /d/execute-raw https://www.prisma.io/docs/concepts/components/prisma-client/raw-database-access#executeraw 301!
 /d/null-undefined https://www.prisma.io/docs/concepts/components/prisma-client/null-and-undefined 301!
 /d/attribute-functions https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference/#attribute-functions 301!
 /d/connection-pool https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/connection-pool 301!
-/d/nexus-prisma https://github.com/prisma/nexus-prisma#readme 301!
 /d/major-version-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions 301!
 /d/seeding https://www.prisma.io/docs/guides/database/seed-database 301!
 /d/data-proxy https://www.prisma.io/docs/concepts/data-platform/data-proxy 301!
@@ -54,15 +44,26 @@
 /d/document-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#mongodb 301!
 /d/relational-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#implicit-many-to-many-relations 301!
 /d/mongodb-replica-set https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb/connect-your-database-typescript-mongodb 301!
-/d/prisma1-mongodb-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1/upgrade-from-mongodb-beta 301!
 /d/pgbouncer https://www.prisma.io/docs/guides/performance-and-optimization/connection-management/configure-pg-bouncer 301!
 /d/composite-types https://www.prisma.io/docs/concepts/components/prisma-client/composite-types 301!
 
+# Update related
+/d/should-you-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
+/d/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
+/upgrading-to-prisma2 https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
+/d/how-to-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade 301!
+/d/schema-incompatibilities https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities 301!
+/d/client-constructor https://www.prisma.io/docs/concepts/components/prisma-client/constructor 301!
+/d/prisma1-mongodb-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1/upgrade-from-mongodb-beta 301!
+
+# GaphQL/Nexus
+/d/nexus-prisma https://github.com/prisma/nexus-prisma#readme 301!
+/d/graphql https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql 301!
+/nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
+
+
 # Docs – Help articles
 /d/help/next-js-best-practices https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices 301!
-
-# Quickstart repos
-/quickstart https://codeload.github.com/prisma/quickstart/tar.gz/main 301!
 
 # Docs Migrate
 /d/migrate https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate 301!
@@ -81,21 +82,9 @@
 /d/mongodb-troubleshooting-transactions https://prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment 301!
 
 
-# Release Notes
-/preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
-/2.12 https://github.com/prisma/prisma/releases/tag/2.12.0 301!
-
-# Early Access
-/migrate-early-access https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786 301!
-/enterprise https://prisma103696.typeform.com/to/D91R9T4i 301!
-/enterprise-recordings https://prisma103696.typeform.com/to/YUln0miL 301!
-/prisma-data-proxy /d/data-proxy 301!
-/data-proxy /d/data-proxy 301!
-/vercel-edge https://prisma103696.typeform.com/to/mVuxXUcH 301!
-
-# Examples
-/examples https://github.com/prisma/prisma-examples
-
+####################
+### Examples /e/ ###
+####################
 # JS
 /e/js/graphql https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql 301!
 /e/js/graphql-auth https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql-auth 301!
@@ -126,9 +115,40 @@
 /e/ts/graphql-fastify-sdl-first https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-fastify-sdl-first 301!
 /e/ts/graphql-fastify https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-fastify 301!
 
+
+################
+### Blog /b/ ###
+################
+
 # Blog
 /b/graphqlgen https://github.com/prisma-archive/prisma-blog-archive/blob/master/2018-10-30-graphqlgen.mdx 301!
 /b/db-access-tools https://www.prisma.io/blog/comparing-sql-query-builders-and-orms-dkuixe3aa5a2/ 301!
+
+
+#############
+### Other ###
+#############
+
+# Privacy
+/privacy https://prismaio.notion.site/Terms-Privacy-5b5b9938b3a941ccb2ad97eaf5524c07 301!
+
+# Quickstart repos
+/quickstart https://codeload.github.com/prisma/quickstart/tar.gz/main 301!
+
+# Examples
+/examples https://github.com/prisma/prisma-examples
+
+# Release Notes
+/preview025 https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025 301!
+/2.12 https://github.com/prisma/prisma/releases/tag/2.12.0 301!
+
+# Early Access
+/migrate-early-access https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786 301!
+/enterprise https://prisma103696.typeform.com/to/D91R9T4i 301!
+/enterprise-recordings https://prisma103696.typeform.com/to/YUln0miL 301!
+/prisma-data-proxy /d/data-proxy 301!
+/data-proxy /d/data-proxy 301!
+/vercel-edge https://prisma103696.typeform.com/to/mVuxXUcH 301!
 
 # Workshops
 /workshop-summit-2020 https://www.notion.so/prismaio/GraphQL-Workshop-1206e94e9434408fb1c2c0af080500d6 301!
@@ -151,7 +171,6 @@
 /data-platform-survey https://prismaio.notion.site/prismaio/Data-Platform-Research-b2acf0dbb0534abfa5d7af9ee786820b 301!
 /prisma-nodecongress https://www.prisma.io/?utm_source=node_congress&utm_medium=referral&utm_campaign=node_congress22 301!
 
-
 # Prisma Stickers
 /nextjs-stickers https://prisma103696.typeform.com/to/UBYCify3 301!
 /graphql-stickers https://prisma103696.typeform.com/to/ZId1v67n 301!
@@ -167,17 +186,16 @@
 /cockroachdb-stickers https://prisma103696.typeform.com/to/mXsNqSD3
 /get-stickers https://prismaio.notion.site/Get-Prisma-Stickers-4008ec752aed4a49950bf3f5293031f3 301!
 
-
 # Serverless Conf stickers - do not share
 /serverless-stickers https://prisma103696.typeform.com/to/faXcExqb 301!
 
 # Survey
 /modern-backend-survey https://prisma103696.typeform.com/to/DTfZiLLR 301!
 
-# prisma day
+# Prisma Day
 /prismadaystickers https://prisma103696.typeform.com/to/OE0Q8k1a 301!
 
-# prisma day 2021
+# Prisma Day 2021
 /day2021 https://prisma103696.typeform.com/to/zF9g620f 301!
 /day2021-intro-it https://www.notion.so/Introduzione-pratica-a-Prisma-2021-5988869e6c5e43e8ba6dd55c2137bf68 301!
 /day2021-intro-fr https://www.notion.so/prismaio/Une-introduction-pratique-a-Prisma-2021-b0526db01c004fedaacea3c04b8ca790 301!
