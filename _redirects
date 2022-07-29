@@ -15,6 +15,8 @@
 /d/mongodb-connector https://www.prisma.io/docs/concepts/database-connectors/mongodb 301!
 /d/cockroachdb-connector https://www.prisma.io/docs/concepts/database-connectors/cockroachdb 301!
 
+/d/logging https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/logging 301!
+/d/debugging https://www.prisma.io/docs/concepts/components/prisma-client/debugging 301!
 /d/telemetry https://www.prisma.io/docs/reference/more/telemetry 301!
 /nexus-prisma-upgrade-0.4 https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1 301!
 /d/getting-started https://www.prisma.io/docs/getting-started/ 301!
@@ -23,8 +25,6 @@
 /d/client https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/api 301!
 /d/introspection https://www.prisma.io/docs/reference/tools-and-interfaces/introspection 301!
 /d/client-generator https://www.prisma.io/docs/concepts/components/prisma-schema/generators 301!
-/d/logging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/logging 301!
-/d/debugging https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/debugging 301!
 /d/bug-reports https://www.prisma.io/docs/support/creating-bug-reports 301!
 /d/graphql https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql 301!
 /d/should-you-upgrade https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade 301!
