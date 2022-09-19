@@ -57,6 +57,7 @@
 /d/prisma1-mongodb-upgrade https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1/upgrade-from-mongodb-beta 301!
 /d/pgbouncer https://www.prisma.io/docs/guides/performance-and-optimization/connection-management/configure-pg-bouncer 301!
 /d/composite-types https://www.prisma.io/docs/concepts/components/prisma-client/composite-types 301!
+/d/upgrading-the-prisma-layer https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1/upgrading-the-prisma-layer 301!
 
 # Docs – Help articles
 /d/help/next-js-best-practices https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices 301!
