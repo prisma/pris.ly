@@ -77,7 +77,7 @@
 /d/migrate-provider-switch https://www.prisma.io/docs/concepts/components/prisma-migrate/prisma-migrate-limitations-issues#you-cannot-automatically-switch-database-providers 301!
 /d/migrate-advisory-locking https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking 301!
 /d/migrate-no-direct-ddl https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-use-branches-and-deploy-requests 301!
-/d/migrate-no-foreign-keys https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale 301!
+/d/migrate-no-foreign-keys https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-create-indexes-on-foreign-keys 301!
 /d/referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions 301!
 /d/cyclic-referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions/cyclic-referential-actions 301!
 /d/mongodb-troubleshooting-transactions https://prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment 301!
