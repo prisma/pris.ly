@@ -50,7 +50,7 @@
 /d/data-proxy-cli https://www.prisma.io/docs/data-platform/data-proxy#providing-the-connection-string-to-prisma-migrate 301!
 /d/relations https://www.prisma.io/docs/concepts/components/prisma-schema/relations 301!
 /d/relation-attribute https://www.prisma.io/docs/concepts/components/prisma-schema/relations#the-relation-attribute 301!
-/d/many-to-many-relations https://prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations 301!
+/d/many-to-many-relations https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations 301!
 /d/document-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#mongodb 301!
 /d/relational-database-many-to-many https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#implicit-many-to-many-relations 301!
 /d/mongodb-replica-set https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb/connect-your-database-typescript-mongodb 301!
@@ -81,7 +81,7 @@
 /d/migrate-no-foreign-keys https://github.com/prisma/prisma/issues/7292 301!
 /d/referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions 301!
 /d/cyclic-referential-actions https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions/cyclic-referential-actions 301!
-/d/mongodb-troubleshooting-transactions https://prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment 301!
+/d/mongodb-troubleshooting-transactions https://www.prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment 301!
 
 
 # Release Notes
@@ -211,7 +211,7 @@
 # MongoDB Launch Week
 /prisma-mongodb-workshop-22 https://prismaio.notion.site/A-Practical-Introduction-to-Prisma-with-MongoDB-6d1546dec93c43d5b7fa8821d94d0a30
 # Youtube
-/prismahomepage1 https://prisma.io?utm_source=youtube&utm_medium=livestreams&utm_campaign=Deploying%20a%20Prisma%20Client%20Application%20with%20the%20Serverless%20framework
+/prismahomepage1 https://www.prisma.io?utm_source=youtube&utm_medium=livestreams&utm_campaign=Deploying%20a%20Prisma%20Client%20Application%20with%20the%20Serverless%20framework
 /youtube https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w 301!
 /intro https://www.youtube.com/watch?v=EEDGwLB55bI 301!
 
