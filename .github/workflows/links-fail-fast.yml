@@ -1,8 +1,19 @@
 name: Links (Fail Fast)
 
-on:
+on: 
   push:
+    branches:
+      - master
+    paths-ignore:
+      - 'prisma-client-js-logo.png'
+      - 'README.md'
+  schedule:
+    # Run “At 08:30 on Monday.”
+    - cron: "30 8 * * 1"
   pull_request:
+    paths-ignore:
+      - 'prisma-client-js-logo.png'
+      - 'README.md'
 
 jobs:
   linkChecker:
