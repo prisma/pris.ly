@@ -1,5 +1,4 @@
-
-name: Check links
+name: Links (Fail Fast)
 
 on: 
   push:
@@ -17,12 +16,15 @@ on:
       - 'README.md'
 
 jobs:
-  markdown-link-check:
-    name: Confirm redirect targets work
+  linkChecker:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        use-verbose-mode: 'yes'
-        file-path: './vercel.json'
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.5.1
+        with:
+          fail: true
+          args: --verbose --no-progress './**/*.json'
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
