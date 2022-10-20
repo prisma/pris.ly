@@ -1,0 +1,815 @@
+{
+  "redirects": [
+    {
+        "source": "/privacy",
+        "destination": "https://prismaio.notion.site/Terms-Privacy-5b5b9938b3a941ccb2ad97eaf5524c07"
+    },
+    {   
+        "source": "/d/sqlite-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/sqlite"
+    },
+    {
+        "source": "/d/mysql-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/mysql"
+    },
+    {
+        "source": "/d/postgresql-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/postgresql"
+    },
+    {
+        "source": "/d/postgres-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/postgresql"
+    },
+    {
+        "source": "/d/mssql-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/sql-server"
+    },
+    {
+        "source": "/d/sqlserver-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/sql-server"
+    },
+    {
+        "source": "/d/mongodb-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/mongodb"
+    },
+    {
+        "source": "/d/cockroachdb-connector",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/cockroachdb"
+    },
+    {
+        "source": "/d/logging",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/logging"
+    },
+    {
+        "source": "/d/debugging",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/debugging"
+    },
+    {
+        "source": "/d/telemetry",
+        "destination": "https://www.prisma.io/docs/reference/more/telemetry"
+    },
+    {
+        "source": "/nexus-prisma-upgrade-0.4",
+        "destination": "https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1"
+    },
+    {
+        "source": "/d/getting-started",
+        "destination": "https://www.prisma.io/docs/getting-started/"
+    },
+    {
+        "source": "/d/prisma-schema",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema"
+    },
+    {
+        "source": "/d/connection-strings",
+        "destination": "https://www.prisma.io/docs/reference/database-connectors/connection-urls"
+    },
+    {
+        "source": "/d/client",
+        "destination": "https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/api"
+    },
+    {
+        "source": "/d/introspection",
+        "destination": "https://www.prisma.io/docs/reference/tools-and-interfaces/introspection"
+    },
+    {
+        "source": "/d/client-generator",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/generators"
+    },
+    {
+        "source": "/d/bug-reports",
+        "destination": "https://www.prisma.io/docs/support/creating-bug-reports"
+    },
+    {
+        "source": "/d/graphql",
+        "destination": "https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql"
+    },
+    {
+        "source": "/d/should-you-upgrade",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade"
+    },
+    {
+        "source": "/d/why-prisma",
+        "destination": "https://www.prisma.io/docs/understand-prisma/why-prisma"
+    },
+    {
+        "source": "/d/upgrading-to-prisma2",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade"
+    },
+    {
+        "source": "/upgrading-to-prisma2",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade"
+    },
+    {
+        "source": "/d/how-to-upgrade",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-from-prisma-1/how-to-upgrade"
+    },
+    {
+        "source": "/d/schema-incompatibilities",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities"
+    },
+    {
+        "source": "/d/naming-models",
+        "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#naming-conventions"
+    },
+    {
+        "source": "/d/build-binaries",
+        "destination": "https://github.com/prisma/prisma-engines#building-prisma-engines"
+    },
+    {
+        "source": "/d/build-engines",
+        "destination": "https://github.com/prisma/prisma-engines#building-prisma-engines"
+    },
+    {
+        "source": "/d/prisma-schema-location",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema#prisma-schema-file-location"
+    },
+    {
+        "source": "/d/preview",
+        "destination": "https://www.prisma.io/docs/more/releases#preview"
+    },
+    {
+        "source": "/d/client-constructor",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/constructor"
+    },
+    {
+        "source": "/d/execute-raw",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/raw-database-access#executeraw"
+    },
+    {
+        "source": "/d/null-undefined",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/null-and-undefined"
+    },
+    {
+        "source": "/d/attribute-functions",
+        "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference/#attribute-functions"
+    },
+    {
+        "source": "/d/connection-pool",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/connection-pool"
+    },
+    {
+        "source": "/d/nexus-prisma",
+        "destination": "https://github.com/prisma/nexus-prisma#readme"
+    },
+    {
+        "source": "/d/major-version-upgrade",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions"
+    },
+    {
+        "source": "/d/seeding",
+        "destination": "https://www.prisma.io/docs/guides/database/seed-database"
+    },
+    {
+        "source": "/d/data-proxy",
+        "destination": "https://www.prisma.io/docs/data-platform/data-proxy"
+    },
+    {
+        "source": "/d/data-proxy-cli",
+        "destination": "https://www.prisma.io/docs/data-platform/data-proxy#providing-the-connection-string-to-prisma-migrate"
+    },
+    {
+        "source": "/d/relations",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations"
+    },
+    {
+        "source": "/d/relation-attribute",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations#the-relation-attribute"
+    },
+    {
+        "source": "/d/many-to-many-relations",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations"
+    },
+    {
+        "source": "/d/document-database-many-to-many",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#mongodb"
+    },
+    {
+        "source": "/d/relational-database-many-to-many",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations#implicit-many-to-many-relations"
+    },
+    {
+        "source": "/d/mongodb-replica-set",
+        "destination": "https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb/connect-your-database-typescript-mongodb"
+    },
+    {
+        "source": "/d/prisma1-mongodb-upgrade",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1/upgrade-from-mongodb-beta"
+    },
+    {
+        "source": "/d/pgbouncer",
+        "destination": "https://www.prisma.io/docs/guides/performance-and-optimization/connection-management/configure-pg-bouncer"
+    },
+    {
+        "source": "/d/composite-types",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/composite-types"
+    },
+    {
+        "source": "/d/upgrading-the-prisma-layer",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1/upgrading-the-prisma-layer"
+    },
+    {
+        "source": "/d/upgrade-from-prisma-1",
+        "destination": "https://www.prisma.io/docs/guides/upgrade-guides/upgrade-from-prisma-1"
+    },
+    {
+        "source": "/d/relationMode",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-integrity"
+    },
+    {
+        "source": "/d/help/next-js-best-practices",
+        "destination": "https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices"
+    },
+    {
+        "source": "/quickstart",
+        "destination": "https://codeload.github.com/prisma/quickstart/tar.gz/main"
+    },
+    {
+        "source": "/d/migrate",
+        "destination": "https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate"
+    },
+    {
+        "source": "/d/migrate-diff",
+        "destination": "https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-migrate"
+    },
+    {
+        "source": "/d/migrate-upgrade",
+        "destination": "https://www.prisma.io/docs/guides/prisma-guides/prisma-migrate-guides/add-prisma-migrate-to-a-project"
+    },
+    {
+        "source": "/d/migrate-baseline",
+        "destination": "https://www.prisma.io/docs/guides/prisma-guides/prisma-migrate-guides/add-prisma-migrate-to-a-project#baseline-your-production-environment"
+    },
+    {
+        "source": "/d/migrate-resolve",
+        "destination": "https://www.prisma.io/docs/guides/database/production-troubleshooting#failed-migration"
+    },
+    {
+        "source": "/d/migrate-shadow",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate/shadow-database"
+    },
+    {
+        "source": "/d/migrate-provider-switch",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate/prisma-migrate-limitations-issues#you-cannot-automatically-switch-database-providers"
+    },
+    {
+        "source": "/d/migrate-advisory-locking",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking"
+    },
+    {
+        "source": "/d/migrate-no-direct-ddl",
+        "destination": "https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-use-branches-and-deploy-requests"
+    },
+    {
+        "source": "/d/migrate-no-foreign-keys",
+        "destination": "https://github.com/prisma/prisma/issues/7292"
+    },
+    {
+        "source": "/d/referential-actions",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions"
+    },
+    {
+        "source": "/d/cyclic-referential-actions",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions/cyclic-referential-actions"
+    },
+    {
+        "source": "/d/mongodb-troubleshooting-transactions",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/mongodb#error-transactions-are-not-supported-by-this-deployment"
+    },
+    {
+        "source": "/preview025",
+        "destination": "https://github.com/prisma/prisma2/releases/tag/2.0.0-preview025"
+    },
+    {
+        "source": "/2.12",
+        "destination": "https://github.com/prisma/prisma/releases/tag/2.12.0"
+    },
+    {
+        "source": "/migrate-early-access",
+        "destination": "https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786"
+    },
+    {
+        "source": "/enterprise",
+        "destination": "https://prisma103696.typeform.com/to/D91R9T4i"
+    },
+    {
+        "source": "/enterprise-recordings",
+        "destination": "https://prisma103696.typeform.com/to/YUln0miL"
+    },
+    {
+        "source": "/prisma-data-proxy",
+        "destination": "/d/data-proxy"
+    },
+    {
+        "source": "/data-proxy",
+        "destination": "/d/data-proxy"
+    },
+    {
+        "source": "/vercel-edge",
+        "destination": "https://prisma103696.typeform.com/to/mVuxXUcH"
+    },
+    {
+        "source": "/examples",
+        "destination": "https://github.com/prisma/prisma-examples"
+    },
+    {
+        "source": "/e/js/graphql",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql"
+    },
+    {
+        "source": "/e/js/graphql-auth",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql-auth"
+    },
+    {
+        "source": "/e/js/graphql-sdl-first",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql-sdl-first"
+    },
+    {
+        "source": "/e/js/graphql-apollo-server",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/graphql-apollo-server"
+    },
+    {
+        "source": "/e/js/rest-express",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-express"
+    },
+    {
+        "source": "/e/js/rest-fastify",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-fastify"
+    },
+    {
+        "source": "/e/js/rest-nextjs",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-nextjs"
+    },
+    {
+        "source": "/e/ts/graphql",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql"
+    },
+    {
+        "source": "/e/ts/graphql-auth",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-auth"
+    },
+    {
+        "source": "/e/ts/graphql-sdl-first",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-sdl-first"
+    },
+    {
+        "source": "/e/ts/graphql-nestjs",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nestjs"
+    },
+    {
+        "source": "/e/ts/graphql-nestjs-sdl-first",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nestjs-sdl-first"
+    },
+    {
+        "source": "/e/ts/graphql-apollo-server",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-apollo-server"
+    },
+    {
+        "source": "/e/ts/graphql-typegraphql",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql"
+    },
+    {
+        "source": "/e/ts/graphql-typegraphql-crud",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql-crud"
+    },
+    {
+        "source": "/e/ts/rest-express",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-express"
+    },
+    {
+        "source": "/e/ts/rest-fastify",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-fastify"
+    },
+    {
+        "source": "/e/ts/rest-nextjs-api-routes",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes"
+    },
+    {
+        "source": "/e/ts/rest-nextjs-api-routes-auth",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes-auth"
+    },
+    {
+        "source": "/e/ts/rest-nextjs-express",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-express"
+    },
+    {
+        "source": "/e/ts/graphql-nextjs",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nextjs"
+    },
+    {
+        "source": "/e/ts/graphql-hapi",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-hapi"
+    },
+    {
+        "source": "/e/ts/graphql-hapi-sdl-first",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-hapi-sdl-first"
+    },
+    {
+        "source": "/e/ts/graphql-subscriptions",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-subscriptions"
+    },
+    {
+        "source": "/e/ts/graphql-fastify-sdl-first",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-fastify-sdl-first"
+    },
+    {
+        "source": "/e/ts/graphql-fastify",
+        "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-fastify"
+    },
+    {
+        "source": "/b/graphqlgen",
+        "destination": "https://github.com/prisma-archive/prisma-blog-archive/blob/master/2018-10-30-graphqlgen.mdx"
+    },
+    {
+        "source": "/b/db-access-tools",
+        "destination": "https://www.prisma.io/blog/comparing-sql-query-builders-and-orms-dkuixe3aa5a2/"
+    },
+    {
+        "source": "/workshop-summit-2020",
+        "destination": "https://www.notion.so/prismaio/GraphQL-Workshop-1206e94e9434408fb1c2c0af080500d6"
+    },
+    {
+        "source": "/a-practical-introduction-prisma",
+        "destination": "https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-Prisma-Day-2020-Workshop-6c6d4cb4b9ec4c81b41854515ee112ad"
+    },
+    {
+        "source": "/a-practical-introduction-to-prisma-20",
+        "destination": "https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-Prisma-Day-2020-Workshop-6c6d4cb4b9ec4c81b41854515ee112ad"
+    },
+    {
+        "source": "/a-practical-introduction-to-prisma",
+        "destination": "https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302"
+    },
+    {
+        "source": "/node-congress-22",
+        "destination": "https://prismaio.notion.site/Database-Workflows-API-Development-with-Prisma-03709f616252452f9d03c03e12f3e30d"
+    },
+    {
+        "source": "/city-js-22",
+        "destination": "https://prismaio.notion.site/Database-Workflows-API-Development-with-Prisma-CityJS-5da5e3a174e44aa58388c6bc1f2aa6b0"
+    },
+    {
+        "source": "/worker-conf-22",
+        "destination": "https://prismaio.notion.site/Database-Workflows-API-Development-with-Prisma-Worker-Conf-15870859539748a5b48e350f1fe8c0bb"
+    },
+    {
+        "source": "/we-are-devs-22",
+        "destination": "https://www.notion.so/prismaio/Database-Workflows-API-Development-with-Prisma-We-Are-Developers-22-0c3074d901ec4bdf84fdc82056cbd263"
+    },
+    {
+        "source": "/prisma1",
+        "destination": "https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e/"
+    },
+    {
+        "source": "/prisma1-vscode",
+        "destination": "https://v1.prisma.io/docs/1.34/faq/prisma-vs-code-extension-fq14/"
+    },
+    {
+        "source": "/prisma1-services",
+        "destination": "https://v1.prisma.io/docs/1.34/understand-prisma/how-prisma-works-under-the-hood-j8ff/#prisma-services"
+    },
+    {
+        "source": "/roadmap",
+        "destination": "https://www.notion.so/prismaio/Prisma-Roadmap-50766227b779464ab98899accb98295f"
+    },
+    {
+        "source": "/multi-provider-deprecation",
+        "destination": "https://github.com/prisma/prisma/issues/3834"
+    },
+    {
+        "source": "/migrate-eap",
+        "destination": "https://prisma103696.typeform.com/to/yssOzU8F"
+    },
+    {
+        "source": "/trees",
+        "destination": "https://www.prisma.io/blog/tweets-for-trees-arboreal"
+    },
+    {
+        "source": "/data-platform-survey",
+        "destination": "https://prismaio.notion.site/prismaio/Data-Platform-Research-b2acf0dbb0534abfa5d7af9ee786820b"
+    },
+    {
+        "source": "/prisma-nodecongress",
+        "destination": "https://www.prisma.io/?utm_source=node_congress&utm_medium=referral&utm_campaign=node_congress22"
+    },
+    {
+        "source": "/nextjs-stickers",
+        "destination": "https://prisma103696.typeform.com/to/UBYCify3"
+    },
+    {
+        "source": "/graphql-stickers",
+        "destination": "https://prisma103696.typeform.com/to/ZId1v67n"
+    },
+    {
+        "source": "/apollo-stickers",
+        "destination": "https://prisma103696.typeform.com/to/dDkPZQet"
+    },
+    {
+        "source": "/express-stickers",
+        "destination": "https://prisma103696.typeform.com/to/llML8HFN"
+    },
+    {
+        "source": "/hapi-stickers",
+        "destination": "https://prisma103696.typeform.com/to/pqrPAQFT"
+    },
+    {
+        "source": "/nestjs-stickers",
+        "destination": "https://prisma103696.typeform.com/to/DXNo3pgo"
+    },
+    {
+        "source": "/react-stickers",
+        "destination": "https://prisma103696.typeform.com/to/i26fAUXD"
+    },
+    {
+        "source": "/typescript-stickers",
+        "destination": "https://prisma103696.typeform.com/to/D1uzzpQr"
+    },
+    {
+        "source": "/fastify-stickers",
+        "destination": "https://prisma103696.typeform.com/to/HJ0GqYKe"
+    },
+    {
+        "source": "/mongo-stickers",
+        "destination": "https://prisma103696.typeform.com/to/Fsh5SmVG"
+    },
+    {
+        "source": "/nodejs-stickers",
+        "destination": "https://prisma103696.typeform.com/to/uCParXQK"
+    },
+    {
+        "source": "/cockroachdb-stickers",
+        "destination": "https://prisma103696.typeform.com/to/mXsNqSD3"
+    },
+    {
+        "source": "/get-stickers",
+        "destination": "https://prismaio.notion.site/Get-Prisma-Stickers-4008ec752aed4a49950bf3f5293031f3"
+    },
+    {
+        "source": "/serverless-stickers",
+        "destination": "https://prisma103696.typeform.com/to/faXcExqb"
+    },
+    {
+        "source": "/modern-backend-survey",
+        "destination": "https://prisma103696.typeform.com/to/DTfZiLLR"
+    },
+    {
+        "source": "/prismadaystickers",
+        "destination": "https://prisma103696.typeform.com/to/OE0Q8k1a"
+    },
+    {
+        "source": "/day2021",
+        "destination": "https://prisma103696.typeform.com/to/zF9g620f"
+    },
+    {
+        "source": "/day2021-intro-it",
+        "destination": "https://www.notion.so/Introduzione-pratica-a-Prisma-2021-5988869e6c5e43e8ba6dd55c2137bf68"
+    },
+    {
+        "source": "/day2021-intro-fr",
+        "destination": "https://www.notion.so/prismaio/Une-introduction-pratique-a-Prisma-2021-b0526db01c004fedaacea3c04b8ca790"
+    },
+    {
+        "source": "/day2021-intro-de",
+        "destination": "https://www.notion.so/prismaio/Eine-praktische-Einf-hrung-in-Prisma-2021-175b6ec557f045d398236939cac3a9c4"
+    },
+    {
+        "source": "/day2021-intro-en",
+        "destination": "https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302"
+    },
+    {
+        "source": "/day2021-intro-kr",
+        "destination": "https://www.notion.so/Prisma-Workshop-dada8b3c8aa142d5b0566932e1cdb058"
+    },
+    {
+        "source": "/day2021-intro-es",
+        "destination": "https://www.notion.so/Introduccion-Pr-ctica-a-Prisma-2021-6c52836591cc4079b792ee76ceb77458"
+    },
+    {
+        "source": "/day2021-intro-pt",
+        "destination": "https://www.notion.so/prismaio/Portugese-Workshop-8903b28aa9c14842bb746e2c9d1fe688"
+    },
+    {
+        "source": "/day2021-intro-en",
+        "destination": "https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302"
+    },
+    {
+        "source": "/day2021-intro-zh",
+        "destination": "https://www.baasapi.com/blog/prisma"
+    },
+    {
+        "source": "/day2021-intro-ru",
+        "destination": "https://www.notion.so/Prisma-2021-b7433a0cb72b412bb37eb649f3e31c74"
+    },
+    {
+        "source": "/day2021-intro-ja",
+        "destination": "https://zenn.dev/kanasugi/articles/3cd5abac97cbc5"
+    },
+    {
+        "source": "/day2021-intro-pl",
+        "destination": "https://www.notion.so/Prisma-Wprowadzenie-praktyczne-2021-dba8949ce9fa44dda97cce0242be31ed"
+    },
+    {
+        "source": "/a-practical-introduction-prisma-pl",
+        "destination": "https://www.notion.so/Prisma-Wprowadzenie-praktyczne-2021-dba8949ce9fa44dda97cce0242be31ed"
+    },
+    {
+        "source": "/day2021-nestjs",
+        "destination": "https://www.notion.so/marcjulian/Building-a-REST-API-with-NestJS-and-Prisma-8296846a0fc54ac0b445ae9364805669"
+    },
+    {
+        "source": "/day2021-amplication",
+        "destination": "https://www.notion.so/Prisma-Day-2021-Building-a-Node-js-API-with-Prisma-in-minutes-using-Amplication-8818bdb4a666476ea4ad06789ec5dd56"
+    },
+    {
+        "source": "/day2021-feedback",
+        "destination": "https://prisma103696.typeform.com/to/fWgNRn48"
+    },
+    {
+        "source": "/day-feedback",
+        "destination": "https://prisma103696.typeform.com/to/fWgNRn48"
+    },
+    {
+        "source": "/day-22-wad",
+        "destination": "https://www.prisma.io/day?utm_source=wearedevelopers&utm_medium=wearedevelopers&utm_id=wearedevelopers"
+    },
+    {
+        "source": "/day-22-cfp",
+        "destination": "https://prisma103696.typeform.com/to/Gm9zMrKA"
+    },
+    {
+        "source": "/prismadayslack",
+        "destination": "https://prisma.slack.com/archives/CJPLPAUUA"
+    },
+    {
+        "source": "/day-22-nestjs",
+        "destination": "https://prismaio.notion.site/Let-s-build-a-REST-API-with-NestJS-and-Prisma-94258f8a78d7460883d5b900f706e9ae"
+    },
+    {
+        "source": "/day-22-intro",
+        "destination": "https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-Prisma-Day-22-13988882ddf64a10a10b31122ba5e97d"
+    },
+    {
+        "source": "/day-22-migrate",
+        "destination": "https://prismaio.notion.site/Deep-Dive-into-Database-Workflows-with-Prisma-Migrate-d435a698d97144daaeb6f61f99c52dbf"
+    },
+    {
+        "source": "/prisma-mongodb-workshop-22",
+        "destination": "https://prismaio.notion.site/A-Practical-Introduction-to-Prisma-with-MongoDB-6d1546dec93c43d5b7fa8821d94d0a30"
+    },
+    {
+        "source": "/prismahomepage1",
+        "destination": "https://www.prisma.io?utm_source=youtube&utm_medium=livestreams&utm_campaign=Deploying%20a%20Prisma%20Client%20Application%20with%20the%20Serverless%20framework"
+    },
+    {
+        "source": "/youtube",
+        "destination": "https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w"
+    },
+    {
+        "source": "/intro",
+        "destination": "https://www.youtube.com/watch?v=EEDGwLB55bI"
+    },
+    {
+        "source": "/signin",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSf2EOSnsgU_yAyDIz_V9nr6q1f_fUDSXGaWQWN66FlgLvwZ8w/viewform"
+    },
+    {
+        "source": "/ambassador-faq",
+        "destination": "https://www.notion.so/prismaio/Prisma-Ambassador-Program-FAQ-f74605421e7e4f768a125c605bbb028b"
+    },
+    {
+        "source": "/ambassador-survey-q1-22",
+        "destination": "https://admin.typeform.com/form/PthMsZrN/create?block=87d9b85e-a65b-42ea-bcd7-8a3113b4f709"
+    },
+    {
+        "source": "/mongo",
+        "destination": "https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb-typescript-mongodb"
+    },
+    {
+        "source": "/go",
+        "destination": "https://github.com/prisma/prisma-client-go"
+    },
+    {
+        "source": "/nexus-prisma/docs/settings/gentime",
+        "destination": "https://github.com/prisma/nexus-prisma#gentime-settings"
+    },
+    {
+        "source": "/nexus-prisma/docs/settings/runtime",
+        "destination": "https://github.com/prisma/nexus-prisma#runtime-settings"
+    },
+    {
+        "source": "/changelog",
+        "destination": "https://prismaio.notion.site/Prisma-Data-Platform-Changelog-89c06438c3014c9c90c929c0a0b204d2"
+    },
+    {
+        "source": "/proxy-new-region",
+        "destination": "https://prisma103696.typeform.com/to/Y03RBE5c"
+    },
+    {
+        "source": "/pdp-updates",
+        "destination": "https://prisma103696.typeform.com/to/QK3HuFd2"
+    },
+    {
+        "source": "/closedcaptions",
+        "destination": "https://prismaio.notion.site/Close-captioning-in-YouTube-videos-why-it-s-important-30a1e20864c84aefbf3800168f70dbdc"
+    },
+    {
+        "source": "/qstart",
+        "destination": "https://www.prisma.io/docs/getting-started/quickstart"
+    },
+    {
+        "source": "/blntechwomen",
+        "destination": "https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/"
+    },
+    {
+        "source": "/vbcwomen",
+        "destination": "https://www.meetup.com/PyLadies-Vancouver/"
+    },
+    {
+        "source": "/saowomen",
+        "destination": "https://www.meetup.com/Sao-Paulo-Women-in-Machine-Learning-Data-Science/"
+    },
+    {
+        "source": "/connect",
+        "destination": "https://linktr.ee/prisma.io"
+    },
+    {
+        "source": "/meetup-raffle",
+        "destination": "https://prisma103696.typeform.com/to/qFGcSQdO"
+    },
+    {
+        "source": "/code-conduct",
+        "destination": "https://prismaio.notion.site/Code-of-Conduct-3dff1daee9bd475588ed9a97f51d2180"
+    },
+    {
+        "source": "/prisma-mongodb-cloudflare",
+        "destination": "https://www.prisma.io/docs/guides/deployment/deployment-guides/deploying-to-cloudflare-workers"
+    },
+    {
+        "source": "/brand-definition-pulse-q4-22",
+        "destination": "https://prisma103696.typeform.com/to/lQCzWyNx"
+    },
+    {
+        "source": "/prisma-examples-suggestion",
+        "destination": "https://prisma103696.typeform.com/to/zVosKOXk"
+    },
+    {
+        "source": "/prisma-examples-feedback",
+        "destination": "https://prisma103696.typeform.com/to/w1UBbbIL"
+    },
+    {
+        "source": "/causes",
+        "destination": "https://prismaio.notion.site/Prisma-Causes-0c9e1ddc0f5942edaba355692cfee69f"
+    },
+    {
+        "source": "/ukraine",
+        "destination": "https://prismaio.notion.site/Prisma-Causes-0c9e1ddc0f5942edaba355692cfee69f#a6eff2dca40148cd8fe9cf13f37de1e6"
+    },
+    {
+        "source": "/helpukraine",
+        "destination": "https://prismaio.notion.site/Donate-to-help-Ukrainians-74198dea0c5a42cab43151b07c9fb2e9"
+    },
+    {
+        "source": "/foss",
+        "destination": "https://prismaio.notion.site/Prisma-Free-and-Open-Source-Software-Fund-FOSS-Fund-061d28a663464cd6bf39b34ca73f29ab"
+    },
+    {
+        "source": "/support-policy",
+        "destination": "https://prismaio.notion.site/Prisma-Support-Policy-36adad9a8c974270a3297d0fe3fb8e0a"
+    },
+    {
+        "source": "/ms/prisma-schema",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/connection-urls",
+        "destination": "https://www.prisma.io/docs/reference/database-reference/connection-urls?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/sql-server",
+        "destination": "https://www.prisma.io/docs/concepts/database-connectors/sql-server?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/prisma-migrate",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/database-migrations",
+        "destination": "https://www.prisma.io/dataguide/types/relational/what-are-database-migrations?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/shadow-database",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate/shadow-database?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/prisma-studio",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-studio?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/ms/prisma-client-crud",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/crud?utm_source=microsoft&utm_medium=youtube&utm_campaign=azure_sql_prisma_video_series"
+    },
+    {
+        "source": "/events-photos",
+        "destination": "https://drive.google.com/drive/u/2/folders/1IqDYEsVA0gTIqhaJrrEcs0zmDKVTDJ7W"
+    }]
+}
