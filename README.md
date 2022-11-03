@@ -4,18 +4,21 @@
 
 To create the shortened url: `http://pris.ly/internet` pointing to `https://tools.ietf.org/html/rfc3271`
 
-1. Open `_redirects`
-2. Add the following line:
+1. Open `vercel.json`
+2. Add the following object for a redirect:
 
 ```
-/internet https://tools.ietf.org/html/rfc3271 301!
+{
+  source: '/internet',
+  destination: 'https://tools.ietf.org/html/rfc3271'
+}
 ```
 
 > The location shouldn't really matter as long as the first part, i.e. `/internet` is unique.
 
-For more information on Netlify redirects: https://docs.netlify.com/routing/redirects/
+For more information on Vercel redirects: https://vercel.com/docs/project-configuration#project-configuration/redirects
 
 ## Automatic deployment
 
-After merging the PR or after a commit on the main branch, the Netlify deployment will start automatically and will only take a few seconds (~10 seconds) until it's live.
-Netlify URL: https://app.netlify.com/sites/prisly/overview
+After merging the PR or after a commit on the main branch, the Vercel deployment will start automatically and will only take a few seconds (~10 seconds) until it's live.
+Vercel URL: https://pris-ly.vercel.app/
