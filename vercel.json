@@ -54,7 +54,7 @@
     },
     {
         "source": "/d/getting-started",
-        "destination": "https://www.prisma.io/docs/getting-started/"
+        "destination": "https://www.prisma.io/docs/getting-started"
     },
     {
         "source": "/d/prisma-schema",
