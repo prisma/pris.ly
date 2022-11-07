@@ -142,7 +142,7 @@
     },
     {
         "source": "/d/attribute-functions",
-        "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference/#attribute-functions"
+        "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#attribute-functions"
     },
     {
         "source": "/d/connection-pool",
