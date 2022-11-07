@@ -49,6 +49,10 @@
         "destination": "https://www.prisma.io/docs/reference/more/telemetry"
     },
     {
+        "source:" "/d/mysql-set-default",
+        "destination": "https://github.com/prisma/prisma/issues/11498#issuecomment-1305571663"
+    },
+    {
         "source": "/nexus-prisma-upgrade-0.4",
         "destination": "https://github.com/prisma-labs/nexus-prisma/releases/tag/v0.4.1"
     },
