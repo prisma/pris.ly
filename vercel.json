@@ -217,6 +217,10 @@
         "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/relation-mode"
     },
     {
+        "source": "/d/relation-mode",
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/relation-mode",
+    },
+    {
         "source": "/d/help/next-js-best-practices",
         "destination": "https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices"
     },
