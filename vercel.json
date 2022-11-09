@@ -214,7 +214,7 @@
     },
     {
         "source": "/d/relationMode",
-        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-integrity"
+        "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/relation-mode"
     },
     {
         "source": "/d/help/next-js-best-practices",
