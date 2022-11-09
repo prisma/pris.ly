@@ -1,6 +1,6 @@
-# pris.ly url shortener
+# pris.ly - Prisma's url shortener
 
-## Adding short links
+## Adding a short link
 
 To create the shortened url: `http://pris.ly/internet` pointing to `https://tools.ietf.org/html/rfc3271`
 
