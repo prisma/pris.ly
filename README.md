@@ -20,7 +20,6 @@ For more information on Vercel redirects: https://vercel.com/docs/project-config
 
 ## Automatic deployment
 
-:warning: The person opening a PR needs to be added to the project. If not added nothing will be deployed after merging.
-
 After merging the PR or after a commit on the main branch, the Vercel deployment will start automatically and will only take a few seconds (~10 seconds) until it's live.
+
 Vercel URL: https://pris-ly.vercel.app/
