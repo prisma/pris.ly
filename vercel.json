@@ -819,5 +819,9 @@
     {
         "source": "/events-photos",
         "destination": "https://drive.google.com/drive/u/2/folders/1IqDYEsVA0gTIqhaJrrEcs0zmDKVTDJ7W"
+    },
+    {
+        "source": "/design-partner-2022",
+        "destination": "https://prismaio.notion.site/Prisma-Design-Partner-Program-a286c25e47fb44e199038ca71dce36a1"
     }]
 }
