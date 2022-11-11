@@ -266,7 +266,7 @@
     },
     {
         "source": "/d/migrate-no-foreign-keys",
-        "destination": "https://github.com/prisma/prisma/issues/7292"
+        "destination": "https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-emulate-referential-integrity-in-prisma-client"
     },
     {
         "source": "/d/referential-actions",
