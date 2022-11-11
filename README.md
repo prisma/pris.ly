@@ -1,6 +1,6 @@
-# pris.ly url shortener
+# pris.ly - Prisma's url shortener
 
-## Adding short links
+## Adding a short link
 
 To create the shortened url: `http://pris.ly/internet` pointing to `https://tools.ietf.org/html/rfc3271`
 
@@ -21,4 +21,5 @@ For more information on Vercel redirects: https://vercel.com/docs/project-config
 ## Automatic deployment
 
 After merging the PR or after a commit on the main branch, the Vercel deployment will start automatically and will only take a few seconds (~10 seconds) until it's live.
+
 Vercel URL: https://pris-ly.vercel.app/
