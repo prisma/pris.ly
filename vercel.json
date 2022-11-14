@@ -821,6 +821,10 @@
         "destination": "https://drive.google.com/drive/u/2/folders/1IqDYEsVA0gTIqhaJrrEcs0zmDKVTDJ7W"
     },
     {
+        "source": "/free-credits",
+        "destination": "https://prismaio.notion.site/Free-Prisma-Data-Platform-credits-249e775364964c5690a395b653052320"
+    },
+    {
         "source": "/design-partner-2022",
         "destination": "https://prismaio.notion.site/Prisma-Design-Partner-Program-a286c25e47fb44e199038ca71dce36a1"
     }]
