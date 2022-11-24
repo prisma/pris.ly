@@ -77,6 +77,10 @@
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/generators"
         },
         {
+            "source": "/d/postgresql-extensions",
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/postgresql-extensions"
+        },
+        {
             "source": "/d/bug-reports",
             "destination": "https://www.prisma.io/docs/support/creating-bug-reports"
         },
