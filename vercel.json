@@ -233,6 +233,10 @@
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions#types-of-referential-actions"
         },
         {
+            "source": "/d/relation-mode-indexes",
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/relation-mode#indexes"
+        },
+        {
             "source": "/d/help/next-js-best-practices",
             "destination": "https://www.prisma.io/docs/support/help-articles/nextjs-prisma-client-dev-practices"
         },
