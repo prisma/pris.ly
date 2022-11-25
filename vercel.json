@@ -233,7 +233,7 @@
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/referential-actions#types-of-referential-actions"
         },
         {
-            "source": "/d/relation-mode-indexes",
+            "source": "/d/relation-mode-prisma-indexes",
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/relations/relation-mode#indexes"
         },
         {
