@@ -389,6 +389,10 @@
             "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-apollo-server"
         },
         {
+            "source": "/e/ts/graphql-nexus",
+            "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-nexus"
+        },
+        {
             "source": "/e/ts/graphql-typegraphql",
             "destination": "https://github.com/prisma/prisma-examples/tree/latest/typescript/graphql-typegraphql"
         },
