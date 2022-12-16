@@ -851,6 +851,10 @@
         {
             "source": "/design-partner-2022",
             "destination": "https://prismaio.notion.site/Prisma-Design-Partner-Program-a286c25e47fb44e199038ca71dce36a1"
+        },
+        {
+            "source": "/privacy",
+            "destination": "https://prismaio.notion.site/Terms-Privacy-5b5b9938b3a941ccb2ad97eaf5524c07"
         }
     ]
 }
