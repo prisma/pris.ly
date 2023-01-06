@@ -301,7 +301,7 @@
             "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference"
         },
         {
-            "source": "/d/multiple-database-schemas",
+            "source": "/d/multi-schema-configuration",
             "destination": "https://www.prisma.io/docs/guides/database/multi-schema#how-to-include-multiple-database-schemas-in-your-prisma-schema"
         },
         {
