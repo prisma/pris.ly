@@ -170,7 +170,7 @@
         },
         {
             "source": "/d/data-proxy-cli",
-            "destination": "https://www.prisma.io/docs/data-platform/data-proxy#providing-the-connection-string-to-prisma-migrate"
+            "destination": "https://www.prisma.io/docs/data-platform/data-proxy/prisma-cli-with-data-proxy"
         },
         {
             "source": "/d/relations",
