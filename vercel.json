@@ -73,8 +73,20 @@
             "destination": "https://www.prisma.io/docs/reference/tools-and-interfaces/introspection"
         },
         {
+            "source": "/d/generator-fields",
+            "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#generator"
+        },
+        {
             "source": "/d/client-generator",
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/generators"
+        },
+        {
+            "source": "/d/client-engine-type",
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-engines/query-engine#defining-the-query-engine-type-for-prisma-client"
+        },
+        {
+            "source": "/d/preview-features",
+            "destination": "https://www.prisma.io/docs/concepts/components/preview-features"
         },
         {
             "source": "/d/postgresql-extensions",
