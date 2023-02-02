@@ -871,6 +871,10 @@
         {
             "source": "/accelerate-docs",
             "destination": "https://prismaio.notion.site/Accelerate-documentation-469a2162ab71487e9027403249d9b58f"
+        },
+        {
+            "source": "/d/partition-tables",
+            "destination": "https://github.com/prisma/prisma/issues/1708"
         }
     ]
 }
