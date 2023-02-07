@@ -875,6 +875,10 @@
         {
             "source": "/d/partition-tables",
             "destination": "https://github.com/prisma/prisma/issues/1708"
+        },
+        {
+            "source": "/d/system-requirements",
+            "destination": "https://www.prisma.io/docs/reference/system-requirements"
         }
     ]
 }
