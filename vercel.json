@@ -125,6 +125,10 @@
             "destination": "https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities"
         },
         {
+            "source": "/d/schema-not-found-nextjs",
+            "destination": "https://www.prisma.io/docs/guides/database/troubleshooting-orm/help-articles/nextjs-prisma-client-monorepo"
+        },
+        {
             "source": "/d/naming-models",
             "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#naming-conventions"
         },
