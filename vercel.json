@@ -883,6 +883,10 @@
         {
             "source": "/d/system-requirements",
             "destination": "https://www.prisma.io/docs/reference/system-requirements"
+        },
+        {
+            "source": "/d/views",
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema/views"
         }
     ]
 }
