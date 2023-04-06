@@ -899,6 +899,10 @@
         {
             "source": "/d/non-default-index-null-ordering",
             "destination": "https://github.com/prisma/prisma/issues/15466"
+        },
+        {
+            "source": "/d/row-level-ttl",
+            "destination": "https://github.com/prisma/prisma/issues/13982"
         }
     ]
 }
