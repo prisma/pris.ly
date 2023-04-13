@@ -903,6 +903,10 @@
         {
             "source": "/d/row-level-ttl",
             "destination": "https://github.com/prisma/prisma/issues/13982"
+        },
+        {
+            "source": "/d/constraint-deferring",
+            "destination": "https://github.com/prisma/prisma/issues/8807"
         }
     ]
 }
