@@ -907,6 +907,10 @@
         {
             "source": "/d/constraint-deferring",
             "destination": "https://github.com/prisma/prisma/issues/8807"
+        },
+        {
+            "source": "/d/database-comments",
+            "destination": "https://github.com/prisma/prisma/issues/8896"
         }
     ]
 }
