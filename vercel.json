@@ -911,6 +911,10 @@
         {
             "source": "/d/database-comments",
             "destination": "https://github.com/prisma/prisma/issues/8896"
+        },
+        {
+            "source": "/d/row-level-security",
+            "destination": "https://github.com/prisma/prisma/issues/12735"
         }
     ]
 }
