@@ -126,7 +126,15 @@
         },
         {
             "source": "/d/schema-not-found-nextjs",
-            "destination": "https://www.prisma.io/docs/guides/database/troubleshooting-orm/help-articles/nextjs-prisma-client-monorepo"
+            "destination": "https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/nextjs-prisma-client-monorepo"
+        },
+        {
+            "source": "/d/netlify-build",
+            "destination": "https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/netlify-caching-issue"
+        },
+        {
+            "source": "/d/vercel-build",
+            "destination": "https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/vercel-caching-issue"
         },
         {
             "source": "/d/naming-models",
