@@ -910,7 +910,7 @@
         },
         {
             "source": "/d/database-comments",
-            "destination": "https://github.com/prisma/prisma/issues/8896"
+            "destination": "https://github.com/prisma/prisma/issues/8703"
         },
         {
             "source": "/d/row-level-security",
