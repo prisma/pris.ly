@@ -923,6 +923,10 @@
         {
             "source": "/d/row-level-security",
             "destination": "https://github.com/prisma/prisma/issues/12735"
+        },
+        {
+            "source": "/d/mysql-multi-row-index",
+            "destination": "https://github.com/prisma/prisma/issues/16552"
         }
     ]
 }
