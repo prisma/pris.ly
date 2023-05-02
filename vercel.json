@@ -286,7 +286,7 @@
         },
         {
             "source": "/d/migrate-resolve",
-            "destination": "https://www.prisma.io/docs/guides/database/production-troubleshooting#failed-migration"
+            "destination": "https://www.prisma.io/docs/guides/migrate/production-troubleshooting#failed-migration"
         },
         {
             "source": "/d/migrate-shadow",
@@ -302,11 +302,11 @@
         },
         {
             "source": "/d/migrate-no-direct-ddl",
-            "destination": "https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-use-branches-and-deploy-requests"
+            "destination": "https://www.prisma.io/docs/guides/database/planetscale#how-to-use-branches-and-deploy-requests"
         },
         {
             "source": "/d/migrate-no-foreign-keys",
-            "destination": "https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-emulate-referential-integrity-in-prisma-client"
+            "destination": "https://www.prisma.io/docs/guides/database/planetscale#how-to-emulate-referential-integrity-in-prisma-client"
         },
         {
             "source": "/d/referential-actions",
