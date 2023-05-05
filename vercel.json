@@ -893,6 +893,10 @@
             "destination": "https://github.com/prisma/prisma/issues/1708"
         },
         {
+            "source": "/d/mongodb-json-schema",
+            "destination": "https://github.com/prisma/prisma/issues/8135"
+        },
+        {
             "source": "/d/system-requirements",
             "destination": "https://www.prisma.io/docs/reference/system-requirements"
         },
