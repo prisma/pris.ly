@@ -897,6 +897,14 @@
             "destination": "https://github.com/prisma/prisma/issues/8135"
         },
         {
+            "source": "/d/check-constraints",
+            "destination": "https://github.com/prisma/prisma/issues/3388"
+        },
+        {
+            "source": "/d/exclusion-constraints",
+            "destination": "https://github.com/prisma/prisma/issues/17514"
+        },
+        {
             "source": "/d/system-requirements",
             "destination": "https://www.prisma.io/docs/reference/system-requirements"
         },
