@@ -298,7 +298,7 @@
         },
         {
             "source": "/d/migrate-advisory-locking",
-            "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking"
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate/migrate-development-production#advisory-locking"
         },
         {
             "source": "/d/migrate-no-direct-ddl",
