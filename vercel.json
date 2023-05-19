@@ -946,7 +946,7 @@
         },
         {
             "source": "/bundler-investigation-error",
-            "destination": "https://github.com/prisma/prisma/issues/19143"
+            "destination": "https://github.com/prisma/prisma/issues/19351"
         }
     ]
 }
