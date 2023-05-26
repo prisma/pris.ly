@@ -947,6 +947,14 @@
         {
             "source": "/bundler-investigation-error",
             "destination": "https://github.com/prisma/prisma/issues/19351"
+        },
+        {
+            "source": "/engine-not-found-bundler-investigation",
+            "destination": "https://github.com/prisma/prisma/issues/19477"
+        },
+        {
+            "source": "/engine-not-found-tooling-investigation",
+            "destination": "https://github.com/prisma/prisma/issues/19478"
         }
     ]
 }
