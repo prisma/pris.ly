@@ -950,11 +950,11 @@
         },
         {
             "source": "/engine-not-found-bundler-investigation",
-            "destination": "https://github.com/prisma/prisma/issues/19477"
+            "destination": "https://github.com/prisma/prisma/discussions/19499"
         },
         {
             "source": "/engine-not-found-tooling-investigation",
-            "destination": "https://github.com/prisma/prisma/issues/19478"
+            "destination": "https://github.com/prisma/prisma/discussions/19498"
         }
     ]
 }
