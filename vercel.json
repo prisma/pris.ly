@@ -955,6 +955,10 @@
         {
             "source": "/engine-not-found-tooling-investigation",
             "destination": "https://github.com/prisma/prisma/discussions/19498"
+        },
+        {
+            "source": "/pulse-docs",
+            "destination": "https://www.notion.so/prismaio/Pulse-Docs-in-progress-e515f580710440d2aa06d78842ab25ab?pvs=4"
         }
     ]
 }
