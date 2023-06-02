@@ -959,6 +959,10 @@
         {
             "source": "/esm",
             "destination": "https://github.com/prisma/prisma/issues/5030#issuecomment-1565181377"
+        },
+        {
+            "source": "/esm-feedback",
+            "destination": "https://github.com/prisma/prisma/discussions/19564"
         }
     ]
 }
