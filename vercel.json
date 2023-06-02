@@ -963,6 +963,22 @@
         {
             "source": "/esm-feedback",
             "destination": "https://github.com/prisma/prisma/discussions/19564"
+        },
+        {
+            "source": "/orm-survey/migrate-sdk",
+            "destination": "https://form.typeform.com/to/btmMPJH6"
+        },
+        {
+            "source": "/orm-survey/views",
+            "destination": "https://form.typeform.com/to/ZtFU9Jxv"
+        },
+        {
+            "source": "/orm-survey/full-text-search",
+            "destination": "https://form.typeform.com/to/IQqvwTJk"
+        },
+        {
+            "source": "/orm-survey/gis",
+            "destination": "https://form.typeform.com/to/p8xo5o95"
         }
     ]
 }
