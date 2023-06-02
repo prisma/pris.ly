@@ -346,11 +346,11 @@
         },
         {
             "source": "/enterprise",
-            "destination": "https://form.typeform.com/to/D91R9T4i"
+            "destination": "https://prisma-data.typeform.com/to/D91R9T4i"
         },
         {
             "source": "/enterprise-recordings",
-            "destination": "https://form.typeform.com/to/YUln0miL"
+            "destination": "https://prisma-data.typeform.com/to/YUln0miL"
         },
         {
             "source": "/prisma-data-proxy",
@@ -362,7 +362,7 @@
         },
         {
             "source": "/vercel-edge",
-            "destination": "https://form.typeform.com/to/mVuxXUcH"
+            "destination": "https://prisma-data.typeform.com/to/mVuxXUcH"
         },
         {
             "source": "/examples",
@@ -542,7 +542,7 @@
         },
         {
             "source": "/migrate-eap",
-            "destination": "https://form.typeform.com/to/yssOzU8F"
+            "destination": "https://prisma-data.typeform.com/to/yssOzU8F"
         },
         {
             "source": "/trees",
@@ -558,51 +558,51 @@
         },
         {
             "source": "/nextjs-stickers",
-            "destination": "https://form.typeform.com/to/D91R9T4i"
+            "destination": "https://prisma-data.typeform.com/to/D91R9T4i"
         },
         {
             "source": "/graphql-stickers",
-            "destination": "https://form.typeform.com/to/D91R9T4i"
+            "destination": "https://prisma-data.typeform.com/to/D91R9T4i"
         },
         {
             "source": "/apollo-stickers",
-            "destination": "https://form.typeform.com/to/dDkPZQet"
+            "destination": "https://prisma-data.typeform.com/to/dDkPZQet"
         },
         {
             "source": "/express-stickers",
-            "destination": "https://form.typeform.com/to/llML8HFN"
+            "destination": "https://prisma-data.typeform.com/to/llML8HFN"
         },
         {
             "source": "/hapi-stickers",
-            "destination": "https://form.typeform.com/to/pqrPAQFT"
+            "destination": "https://prisma-data.typeform.com/to/pqrPAQFT"
         },
         {
             "source": "/nestjs-stickers",
-            "destination": "https://form.typeform.com/to/DXNo3pgo"
+            "destination": "https://prisma-data.typeform.com/to/DXNo3pgo"
         },
         {
             "source": "/react-stickers",
-            "destination": "https://form.typeform.com/to/i26fAUXD"
+            "destination": "https://prisma-data.typeform.com/to/i26fAUXD"
         },
         {
             "source": "/typescript-stickers",
-            "destination": "https://form.typeform.com/to/D1uzzpQr"
+            "destination": "https://prisma-data.typeform.com/to/D1uzzpQr"
         },
         {
             "source": "/fastify-stickers",
-            "destination": "https://form.typeform.com/to/HJ0GqYKe"
+            "destination": "https://prisma-data.typeform.com/to/HJ0GqYKe"
         },
         {
             "source": "/mongo-stickers",
-            "destination": "https://form.typeform.com/to/Fsh5SmVG"
+            "destination": "https://prisma-data.typeform.com/to/Fsh5SmVG"
         },
         {
             "source": "/nodejs-stickers",
-            "destination": "https://form.typeform.com/to/uCParXQK"
+            "destination": "https://prisma-data.typeform.com/to/uCParXQK"
         },
         {
             "source": "/cockroachdb-stickers",
-            "destination": "https://form.typeform.com/to/mXsNqSD3"
+            "destination": "https://prisma-data.typeform.com/to/mXsNqSD3"
         },
         {
             "source": "/get-stickers",
@@ -610,19 +610,19 @@
         },
         {
             "source": "/serverless-stickers",
-            "destination": "https://form.typeform.com/to/faXcExqb"
+            "destination": "https://prisma-data.typeform.com/to/faXcExqb"
         },
         {
             "source": "/modern-backend-survey",
-            "destination": "https://form.typeform.com/to/DTfZiLLR"
+            "destination": "https://prisma-data.typeform.com/to/DTfZiLLR"
         },
         {
             "source": "/prismadaystickers",
-            "destination": "https://form.typeform.com/to/OE0Q8k1a"
+            "destination": "https://prisma-data.typeform.com/to/OE0Q8k1a"
         },
         {
             "source": "/day2021",
-            "destination": "https://form.typeform.com/to/zF9g620f"
+            "destination": "https://prisma-data.typeform.com/to/zF9g620f"
         },
         {
             "source": "/day2021-intro-it",
@@ -686,11 +686,11 @@
         },
         {
             "source": "/day2021-feedback",
-            "destination": "https://form.typeform.com/to/fWgNRn48"
+            "destination": "https://prisma-data.typeform.com/to/fWgNRn48"
         },
         {
             "source": "/day-feedback",
-            "destination": "https://form.typeform.com/to/fWgNRn48"
+            "destination": "https://prisma-data.typeform.com/to/fWgNRn48"
         },
         {
             "source": "/day-22-wad",
@@ -698,7 +698,7 @@
         },
         {
             "source": "/day-22-cfp",
-            "destination": "https://form.typeform.com/to/Gm9zMrKA"
+            "destination": "https://prisma-data.typeform.com/to/Gm9zMrKA"
         },
         {
             "source": "/prismadayslack",
@@ -742,7 +742,7 @@
         },
         {
             "source": "/ambassador-survey-q1-22",
-            "destination": "https://admin.typeform.com/form/PthMsZrN/create?block=87d9b85e-a65b-42ea-bcd7-8a3113b4f709"
+            "destination": "https://prisma-data.typeform.com/to/PthMsZrN"
         },
         {
             "source": "/mongo",
@@ -766,11 +766,11 @@
         },
         {
             "source": "/proxy-new-region",
-            "destination": "https://form.typeform.com/to/Y03RBE5c"
+            "destination": "https://prisma-data.typeform.com/to/Y03RBE5c"
         },
         {
             "source": "/pdp-updates",
-            "destination": "https://form.typeform.com/to/QK3HuFd2"
+            "destination": "https://prisma-data.typeform.com/to/QK3HuFd2"
         },
         {
             "source": "/closedcaptions",
@@ -798,7 +798,7 @@
         },
         {
             "source": "/meetup-raffle",
-            "destination": "https://form.typeform.com/to/qFGcSQdO"
+            "destination": "https://prisma-data.typeform.com/to/qFGcSQdO"
         },
         {
             "source": "/code-conduct",
@@ -810,15 +810,15 @@
         },
         {
             "source": "/brand-definition-pulse-q4-22",
-            "destination": "https://form.typeform.com/to/lQCzWyNx"
+            "destination": "https://prisma-data.typeform.com/to/lQCzWyNx"
         },
         {
             "source": "/prisma-examples-suggestion",
-            "destination": "https://form.typeform.com/to/zVosKOXk"
+            "destination": "https://prisma-data.typeform.com/to/zVosKOXk"
         },
         {
             "source": "/prisma-examples-feedback",
-            "destination": "https://form.typeform.com/to/w1UBbbIL"
+            "destination": "https://prisma-data.typeform.com/to/w1UBbbIL"
         },
         {
             "source": "/causes",
