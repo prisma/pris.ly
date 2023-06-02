@@ -342,7 +342,7 @@
         },
         {
             "source": "/migrate-early-access",
-            "destination": "https://www.notion.so/prismaio/Public-Documentation-for-Prisma-Migrate-Early-Access-7708df0c1d3d4852ab39fb69ed182786"
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate"
         },
         {
             "source": "/enterprise",
