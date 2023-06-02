@@ -286,7 +286,7 @@
         },
         {
             "source": "/d/migrate-resolve",
-            "destination": "https://www.prisma.io/docs/guides/database/production-troubleshooting#failed-migration"
+            "destination": "https://www.prisma.io/docs/guides/migrate/production-troubleshooting#failed-migration"
         },
         {
             "source": "/d/migrate-shadow",
@@ -298,15 +298,15 @@
         },
         {
             "source": "/d/migrate-advisory-locking",
-            "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate#advisory-locking"
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-migrate/migrate-development-production#advisory-locking"
         },
         {
             "source": "/d/migrate-no-direct-ddl",
-            "destination": "https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-use-branches-and-deploy-requests"
+            "destination": "https://www.prisma.io/docs/guides/database/planetscale#how-to-use-branches-and-deploy-requests"
         },
         {
             "source": "/d/migrate-no-foreign-keys",
-            "destination": "https://www.prisma.io/docs/guides/database/using-prisma-with-planetscale#how-to-emulate-referential-integrity-in-prisma-client"
+            "destination": "https://www.prisma.io/docs/guides/database/planetscale#how-to-emulate-referential-integrity-in-prisma-client"
         },
         {
             "source": "/d/referential-actions",
@@ -558,7 +558,7 @@
         },
         {
             "source": "/nextjs-stickers",
-            "destination": "https://prisma-data.typeform.com/to/UBYCify3"
+          "destination": "https://prisma-data.typeform.com/to/UBYCify3"
         },
         {
             "source": "/graphql-stickers",
@@ -893,6 +893,18 @@
             "destination": "https://github.com/prisma/prisma/issues/1708"
         },
         {
+            "source": "/d/mongodb-json-schema",
+            "destination": "https://github.com/prisma/prisma/issues/8135"
+        },
+        {
+            "source": "/d/check-constraints",
+            "destination": "https://github.com/prisma/prisma/issues/3388"
+        },
+        {
+            "source": "/d/exclusion-constraints",
+            "destination": "https://github.com/prisma/prisma/issues/17514"
+        },
+        {
             "source": "/d/system-requirements",
             "destination": "https://www.prisma.io/docs/reference/system-requirements"
         },
@@ -923,6 +935,50 @@
         {
             "source": "/d/row-level-security",
             "destination": "https://github.com/prisma/prisma/issues/12735"
+        },
+        {
+            "source": "/d/mysql-multi-row-index",
+            "destination": "https://github.com/prisma/prisma/issues/16552"
+        },
+        {
+            "source": "/bundler-investigation",
+            "destination": "https://github.com/prisma/prisma/issues/19143"
+        },
+        {
+            "source": "/bundler-investigation-error",
+            "destination": "https://github.com/prisma/prisma/issues/19351"
+        },
+        {
+            "source": "/engine-not-found-bundler-investigation",
+            "destination": "https://github.com/prisma/prisma/discussions/19499"
+        },
+        {
+            "source": "/engine-not-found-tooling-investigation",
+            "destination": "https://github.com/prisma/prisma/discussions/19498"
+        },
+        {
+            "source": "/esm",
+            "destination": "https://github.com/prisma/prisma/issues/5030#issuecomment-1565181377"
+        },
+        {
+            "source": "/esm-feedback",
+            "destination": "https://github.com/prisma/prisma/discussions/19564"
+        },
+        {
+            "source": "/orm-survey/migrate-sdk",
+            "destination": "https://form.typeform.com/to/btmMPJH6"
+        },
+        {
+            "source": "/orm-survey/views",
+            "destination": "https://form.typeform.com/to/ZtFU9Jxv"
+        },
+        {
+            "source": "/orm-survey/full-text-search",
+            "destination": "https://form.typeform.com/to/IQqvwTJk"
+        },
+        {
+            "source": "/orm-survey/gis",
+            "destination": "https://form.typeform.com/to/p8xo5o95"
         }
     ]
 }
