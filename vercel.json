@@ -957,7 +957,7 @@
             "destination": "https://github.com/prisma/prisma/discussions/19498"
         },
         {
-            "source": "/eesm",
+            "source": "/esm",
             "destination": "https://github.com/prisma/prisma/issues/5030#issuecomment-1565181377"
         },            
     ]
