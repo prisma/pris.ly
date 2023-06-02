@@ -955,6 +955,10 @@
         {
             "source": "/engine-not-found-tooling-investigation",
             "destination": "https://github.com/prisma/prisma/discussions/19498"
-        }
+        },
+        {
+            "source": "/eesm",
+            "destination": "https://github.com/prisma/prisma/issues/5030#issuecomment-1565181377"
+        },            
     ]
 }
