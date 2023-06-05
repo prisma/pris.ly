@@ -945,6 +945,10 @@
             "destination": "https://github.com/prisma/prisma/issues/16552"
         },
         {
+            "source": "/d/expression-indexes",
+            "destination": "https://github.com/prisma/prisma/issues/2504"
+        },
+        {
             "source": "/bundler-investigation",
             "destination": "https://github.com/prisma/prisma/issues/19143"
         },
