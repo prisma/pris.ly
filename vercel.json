@@ -987,6 +987,10 @@
         {
             "source": "/orm-survey/gis",
             "destination": "https://form.typeform.com/to/p8xo5o95"
+        },
+        {
+            "source": "/cloud-projects",
+            "destination": "https://prismaio.notion.site/Docs-cf0edbb5629543fba5231ecae43ec7c1?pvs=4"   
         }
     ]
 }
