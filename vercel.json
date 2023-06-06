@@ -990,7 +990,11 @@
         },
         {
             "source": "/cloud-projects",
-            "destination": "https://prismaio.notion.site/Docs-cf0edbb5629543fba5231ecae43ec7c1?pvs=4"   
+            "destination": "https://prismaio.notion.site/Docs-cf0edbb5629543fba5231ecae43ec7c1?pvs=4"
+        },
+        {
+            "source": "/cloud-projects-feedback",
+            "destination": "https://prisma-data.typeform.com/to/rg5rDLY3"
         }
     ]
 }
