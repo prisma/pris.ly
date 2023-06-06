@@ -995,6 +995,10 @@
         {
             "source": "/cloud-projects-feedback",
             "destination": "https://prisma-data.typeform.com/to/rg5rDLY3"
+        },
+        {
+            "source": "/pulse-docs",
+            "destination": "https://prismaio.notion.site/Pulse-documentation-e515f580710440d2aa06d78842ab25ab?pvs=4"
         }
     ]
 }
