@@ -45,6 +45,10 @@
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/debugging"
         },
         {
+            "source": "/d/extensions",
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-client/client-extensions"
+        },
+        {
             "source": "/d/telemetry",
             "destination": "https://www.prisma.io/docs/reference/more/telemetry"
         },
