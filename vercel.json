@@ -1003,6 +1003,10 @@
         {
             "source": "/pulse-docs",
             "destination": "https://prismaio.notion.site/Pulse-documentation-137ca256325d4a22b80b54a89975f059"
+        },
+        {
+            "source": "/discord",
+            "destination": "https://discord.gg/KQyTW2H5ca"
         }
     ]
 }
