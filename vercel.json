@@ -1007,6 +1007,10 @@
         {
             "source": "/discord",
             "destination": "https://discord.gg/KQyTW2H5ca"
+        },
+        {
+            "source": "/latest-bod",
+            "destination": "https://docs.google.com/presentation/d/1xCqcOrGsUycYbM_DRbRXB6ch5mYsyl_urCPuNwOFRpY/edit?usp=sharing"
         }
     ]
 }
