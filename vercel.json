@@ -38,7 +38,7 @@
         },
         {
             "source": "/d/cockroachdb-postgresql-provider",
-            "destination": "https://www.prisma.io/docs//guides/upgrade-guides/upgrading-versions/upgrading-to-prisma-5#cockroachdb-provider-is-now-required-when-connecting-to-a-cockroachdb-database"
+            "destination": "https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions/upgrading-to-prisma-5#cockroachdb-provider-is-now-required-when-connecting-to-a-cockroachdb-database"
         },
         {
             "source": "/d/logging",
