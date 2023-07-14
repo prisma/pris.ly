@@ -1015,6 +1015,10 @@
         {
             "source": "/latest-bod",
             "destination": "https://docs.google.com/presentation/d/1xCqcOrGsUycYbM_DRbRXB6ch5mYsyl_urCPuNwOFRpY/edit?usp=sharing"
+        },
+        {
+            "source": "/mtg-nitin",
+            "destination": "https://calendar.app.google/aF7oKn4kpCBy7WAk6"
         }
     ]
 }
