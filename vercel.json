@@ -157,6 +157,10 @@
             "destination": "https://github.com/prisma/prisma-engines#building-prisma-engines"
         },
         {
+            "source": "/d/custom-engines",
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-engines#using-custom-engine-libraries-or-binaries"
+        },
+        {
             "source": "/d/prisma-schema-location",
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema#prisma-schema-file-location"
         },
