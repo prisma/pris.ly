@@ -1023,6 +1023,10 @@
         {
             "source": "/mtg-nitin",
             "destination": "https://calendar.app.google/aF7oKn4kpCBy7WAk6"
+        }, 
+        {
+            "source": "/pdp",
+            "destination" : "https://cloudprojects.prisma.io/"
         }
     ]
 }
