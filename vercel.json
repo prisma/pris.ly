@@ -1027,6 +1027,10 @@
         {
             "source": "/pdp",
             "destination" : "https://cloudprojects.prisma.io/"
+        },
+        {
+            "source": "/cf-partnership",
+            "destination" : "https://www.prisma.io/blog/cloudflare-partnership-qerefgvwirjq"
         }
     ]
 }
