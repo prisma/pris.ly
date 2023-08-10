@@ -898,7 +898,7 @@
         },
         {
             "source": "/accelerate-docs",
-            "destination": "https://prismaio.notion.site/Accelerate-documentation-0afeeebb8e5241fb9108f583d44b9e90"
+            "destination": "https://www.prisma.io/docs/data-platform/accelerate/what-is-accelerate"
         },
         {
             "source": "/d/partition-tables",
@@ -1002,7 +1002,7 @@
         },
         {
             "source": "/cloud-projects",
-            "destination": "https://prismaio.notion.site/Cloud-Projects-Documentation-64003996dfa647c1a1fae77feb991d09"
+            "destination": "https://www.prisma.io/docs/data-platform/cloud-projects/about-cloud-projects"
         },
         {
             "source": "/cloud-projects-feedback",
