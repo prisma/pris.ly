@@ -1031,6 +1031,14 @@
         {
             "source": "/cf-partnership",
             "destination" : "https://www.prisma.io/blog/cloudflare-partnership-qerefgvwirjq"
+        },
+        {
+            "source": "/d/accelerate",
+            "destination" : "https://www.prisma.io/docs/data-platform/accelerate/what-is-accelerate"
+        },
+        {
+            "source": "/d/accelerate-limitations",
+            "destination" : "https://www.prisma.io/docs/data-platform/classic-projects/data-proxy/prisma-cli-with-data-proxy"
         }
     ]
 }
