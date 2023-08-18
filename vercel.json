@@ -1039,6 +1039,10 @@
         {
             "source": "/d/accelerate-limitations",
             "destination" : "https://www.prisma.io/docs/data-platform/classic-projects/data-proxy/prisma-cli-with-data-proxy"
+        },
+        {
+            "source": "/d/datasource-url",
+            "destination" : "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
         }
     ]
 }
