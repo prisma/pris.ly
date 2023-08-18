@@ -1047,6 +1047,10 @@
         {
             "source": "/d/datasource-env",
             "destination" : "https://www.prisma.io/docs/concepts/components/prisma-schema#accessing-environment-variables-from-the-schema"
+        },
+        {
+            "source": "/d/importing-client",
+            "destination" : "https://www.prisma.io/docs/concepts/components/prisma-client#3-importing-prisma-client"
         }
     ]
 }
