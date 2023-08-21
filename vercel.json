@@ -1023,38 +1023,46 @@
         {
             "source": "/mtg-nitin",
             "destination": "https://calendar.app.google/aF7oKn4kpCBy7WAk6"
-        }, 
+        },
         {
             "source": "/pdp",
-            "destination" : "https://cloudprojects.prisma.io/"
+            "destination": "https://cloudprojects.prisma.io/"
         },
         {
             "source": "/cf-partnership",
-            "destination" : "https://www.prisma.io/blog/cloudflare-partnership-qerefgvwirjq"
+            "destination": "https://www.prisma.io/blog/cloudflare-partnership-qerefgvwirjq"
         },
         {
             "source": "/d/accelerate",
-            "destination" : "https://www.prisma.io/docs/data-platform/accelerate/what-is-accelerate"
+            "destination": "https://www.prisma.io/docs/data-platform/accelerate/what-is-accelerate"
         },
         {
             "source": "/d/accelerate-limitations",
-            "destination" : "https://www.prisma.io/docs/data-platform/classic-projects/data-proxy/prisma-cli-with-data-proxy"
+            "destination": "https://www.prisma.io/docs/data-platform/classic-projects/data-proxy/prisma-cli-with-data-proxy"
         },
         {
             "source": "/d/datasource-url",
-            "destination" : "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
+            "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
         },
         {
             "source": "/d/cloudflare-datasource-url",
-            "destination" : "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
+            "destination": "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
         },
         {
             "source": "/d/datasource-env",
-            "destination" : "https://www.prisma.io/docs/concepts/components/prisma-schema#accessing-environment-variables-from-the-schema"
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-schema#accessing-environment-variables-from-the-schema"
         },
         {
             "source": "/d/importing-client",
-            "destination" : "https://www.prisma.io/docs/concepts/components/prisma-client#3-importing-prisma-client"
+            "destination": "https://www.prisma.io/docs/concepts/components/prisma-client#3-importing-prisma-client"
+        },
+        {
+            "source": "/pulse-db-template",
+            "destination": "https://railway.app/template/pulse-pg"
+        },
+        {
+            "source": "/pulse-starter-template",
+            "destination": "https://railway.app/template/pulse-pg"
         }
     ]
 }
