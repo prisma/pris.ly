@@ -1045,6 +1045,10 @@
             "destination" : "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
         },
         {
+            "source": "/d/cloudflare-datasource-url",
+            "destination" : "https://www.prisma.io/docs/reference/api-reference/prisma-client-reference#programmatically-override-a-datasource-url"
+        },
+        {
             "source": "/d/datasource-env",
             "destination" : "https://www.prisma.io/docs/concepts/components/prisma-schema#accessing-environment-variables-from-the-schema"
         },
