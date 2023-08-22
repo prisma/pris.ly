@@ -1062,7 +1062,7 @@
         },
         {
             "source": "/pulse-db-and-app",
-            "destination": "https://railway.app/template/pulse-pg"
+            "destination": "https://railway.app/template/pulse-starter"
         }
     ]
 }
