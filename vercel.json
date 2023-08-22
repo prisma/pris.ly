@@ -1057,12 +1057,12 @@
             "destination": "https://www.prisma.io/docs/concepts/components/prisma-client#3-importing-prisma-client"
         },
         {
-            "source": "/pulse-db-template",
+            "source": "/pulse-db-only",
             "destination": "https://railway.app/template/pulse-pg"
         },
         {
-            "source": "/pulse-starter-template",
-            "destination": "https://railway.app/template/pulse-pg"
+            "source": "/pulse-db-and-app",
+            "destination": "https://railway.app/template/pulse-starter"
         }
     ]
 }
