@@ -1,5 +1,7 @@
 # pris.ly - Prisma's url shortener
 
+_👀 Prisma now proudly uses [Dub](https://dub.co/) for short URLs. This project is retired._
+
 ## Adding a short link
 
 To create the shortened url: `http://pris.ly/internet` pointing to `https://tools.ietf.org/html/rfc3271`
